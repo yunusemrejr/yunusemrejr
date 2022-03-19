@@ -28,7 +28,7 @@ LIST OF PROGRAMS I'VE CODED:
 - 1 to 9 number information for kids (C++),
 - Simple password generator (Python),
 - User Status Checker (.NET/C#, SQL),
-- Worlds to Password (C++).
+- Words to Password (C++).
 
 
 
