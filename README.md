@@ -21,5 +21,15 @@ WANNA BE:
 these '*'s are what I want to become in the future. Oh, one more: Live healthy, die peacefully. 
 
 
+LIST OF PROGRAMS I'VE CODED:
+
+- Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML),
+- KepServerEX REST API web client (JavaScript, CSS, HTML),
+- 1 to 9 number information for kids (C++),
+- Simple password generator (Python),
+- User Status Checker (.NET/C#, SQL),
+- Worlds to Password (C++).
+
+
 
 
