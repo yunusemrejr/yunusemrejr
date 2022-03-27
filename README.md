@@ -18,7 +18,7 @@ WANNA BE:
 *Lives in 2-3 countries depending on work schecule.
 *Can program A.I. algorithms even if not perfect.
 
-these '*'s are what I want to become in the future. Oh, one more: Live healthy, die peacefully. 
+these '*'s are what I want to become in the future. Oh, one more: Live healthy, die peacefully. Just kiddin' I don't give a f*
 
 
 LIST OF PROGRAMS I'VE CODED:
@@ -29,7 +29,8 @@ LIST OF PROGRAMS I'VE CODED:
 - Words to Password (C++),
 - Simple password generator (Python),
 - User Status Checker (.NET/C#, SQL),
-- .NET form mySQL user list viewer (.NET/C#, SQL).
+- .NET form mySQL user list viewer (.NET/C#, SQL),
+- View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML.
 
 
 
