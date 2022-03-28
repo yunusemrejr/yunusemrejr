@@ -1,6 +1,6 @@
 - 🔭 I’m currently coding most of my programs in good old vanilla JavaScript that run on the browser (fetching some API, some DOM, some wierdly long functions and always listening to the user's actions like a maniac would do). And sometimes I code simple windows apps in C++. Oh, and also  I write a lot of CSS and some basic SQL.
 - 🌱 I’m currently learning: --More and more and more details on above languages-- but also working on ------> Node.js, C#(.NET), PHP, Python, Java, mongoDB, Express.js, Angular, TypeScript, Linux, computer architecture and hardware. (.NET is fine working with even if I need to google everyhing every second of every minute of every hour BUT Angular and TS are giving me a lot of headache. ERROR that ERROR this and ERROR of an ERROR of another ERROR. I'm gonna be good at'em promise that to future me but currently getting a lot of version errors whenever I code something).
-- 
+
 - 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
 
 - ⚡ Fun fact: I play the guitar good! Some piano, some ukulele too. I can NOT draw well but I still like it.
