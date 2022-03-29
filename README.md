@@ -25,6 +25,7 @@ LIST OF PROGRAMS I'VE CODED:
 - Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML),
 - KepServerEX REST API web client (JavaScript, CSS, HTML),
 - 1 to 9 number information for kids (C++),
+- -Random Quote Generator APK (Java with Android Studio),
 - Words to Password (C++),
 - Simple password generator (Python),
 - User Status Checker (.NET/C#, SQL),
