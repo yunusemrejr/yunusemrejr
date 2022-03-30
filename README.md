@@ -31,6 +31,7 @@ LIST OF PROGRAMS I'VE CODED:
 - Simple password generator (Python),
 - User Status Checker (.NET/C#, SQL),
 - .NET form mySQL user list viewer (.NET/C#, SQL),
+- .NET form-Browse World Cities Database (With Simple Calculator Added) (.NET/C#, SQL),
 - View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML.
 
 
