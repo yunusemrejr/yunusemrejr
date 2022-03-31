@@ -22,25 +22,25 @@ these '*'s are what I want to become in the future. Oh, one more: Live healthy, 
 
 LIST OF PROGRAMS I'VE CODED:
 
-- [Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://),
-- KepServerEX REST API web client (JavaScript, CSS, HTML),
-- 1 to 9 number information for kids (C++),
-- -Random Quote Generator APK (Java with Android Studio),
-- Multiply With Pi (Java),
-- Words to Password (C++),
-- Simple password generator (Python),
-- User Status Checker (.NET/C#, SQL),
-- .NET form mySQL user list viewer (.NET/C#, SQL),
-- .NET form-Browse World Cities Database (With Simple Calculator Added) (.NET/C#, SQL),
-- View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML,
-- Console app that multiples input with Pi (Written in C).
+- [Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
+- [KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
+- [1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/1-to-9-number-information),
+- [Random Quote Generator APK (Java with Android Studio)](https://github.com/yunusemrejr/Random-Quote-Generator-APK),
+- [Multiply With Pi (Java)](https://github.com/yunusemrejr/Java-Code-That-Multiplies-Your-Input-With-Pi),
+- [Words to Password (C++)](https://github.com/yunusemrejr/Worlds-to-Password-CPP),
+- [Simple password generator (Python)](https://github.com/yunusemrejr/Simple-password-generator-Python-),
+- [User Status Checker (.NET/C#, SQL)](https://github.com/yunusemrejr/User-Status-Checker),
+- [.NET form mySQL user list viewer (.NET/C#, SQL)](https://github.com/yunusemrejr/.NET-form-mySQL-user-list-viewer),
+- [.NET form-Browse World Cities Database (With Simple Calculator Added) (.NET/C#, SQL)](https://github.com/yunusemrejr/dotNET-Csharp-BrowseWorldDB),
+- [View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
+- [Console app that multiples input with Pi (Written in C)](https://github.com/yunusemrejr/C-program-that-multiplies-with-Pi).
 
 
 Other Repos:
 
--Circuit Designs(
+-[Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)(
 
-XOR gate design with Digital Works,
+[XOR gate design with Digital Works](https://github.com/yunusemrejr/CircuitsWithDigitalWorks/blob/main/XOR.dwm),
 
 )
 
