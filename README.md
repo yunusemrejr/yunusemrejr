@@ -37,5 +37,9 @@ LIST OF PROGRAMS I'VE CODED:
 
 Other Repos:
 
--XOR gate design with Digital Works.
+-Circuit Designs(
+
+XOR gate design with Digital Works,
+
+)
 
