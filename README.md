@@ -35,4 +35,7 @@ LIST OF PROGRAMS I'VE CODED:
 - View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML.
 
 
+Other Repos:
+
+-XOR gate design with Digital Works.
 
