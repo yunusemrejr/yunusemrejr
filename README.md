@@ -43,6 +43,9 @@ Other Repos:
 
 [XOR gate design with Digital Works](https://github.com/yunusemrejr/CircuitsWithDigitalWorks/blob/main/XOR.dwm),
 
-)
+),
+
+[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
+
 
 -[Certificates](https://github.com/yunusemrejr/Certificates)
