@@ -39,13 +39,6 @@ LIST OF PROGRAMS I'VE CODED:
 
 Other Repos:
 
--[Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)(
-
-[XOR gate design with Digital Works](https://github.com/yunusemrejr/CircuitsWithDigitalWorks/blob/main/XOR.dwm),
-
-),
-
+-[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 [Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
-
-
 -[Certificates](https://github.com/yunusemrejr/Certificates)
