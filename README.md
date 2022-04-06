@@ -44,7 +44,7 @@ Other Repos:
 
 -[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
--[Assembly Code with emu8086](https://github.com/yunusemrejr/Assembly),
+-[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -[Certificates](https://github.com/yunusemrejr/Certificates)
 
 
