@@ -25,7 +25,8 @@ LIST OF PROGRAMS I'VE CODED:
 - [View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
 - -[Pi Calculator (PHP)](https://github.com/yunusemrejr/PHP-Pi),
 - [Console app that multiples input with Pi (Written in C)](https://github.com/yunusemrejr/C-program-that-multiplies-with-Pi),
-- [C.R.U.D. Application using NodeJS, ExpressJS & MongoDB](https://github.com/yunusemrejr/CRUD-with-NodeJS-ExpressJS-MongoDB)
+- [C.R.U.D. Application using NodeJS, ExpressJS & MongoDB](https://github.com/yunusemrejr/CRUD-with-NodeJS-ExpressJS-MongoDB),
+- [TypeScript Simple Demo Program](https://github.com/yunusemrejr/TypeScript-Simple-Demo)
 
 
 Other Repos:
