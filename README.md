@@ -1,23 +1,11 @@
--Working on 🐝------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, Angular, TypeScript, Linux, computer architecture and hardware, HTML/CSS. 
+-Working on 🐝------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, Angular, TypeScript, Linux, Computer architecture and Hardware, HTML/CSS, Assembly.
 
 - 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
 
-- ⚡ Fun fact: I play the guitar good! Some piano, some ukulele too. I can NOT draw well but I still like it.
+- ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.
 
--⚡I tried writing short stories and also have some recorded original songs.
-
-- 🔭Future plans? Of course. Here is a list that I want to turn into future me:
-WANNA BE:
-*VERY VERY VERY good at JavaScript and C++.
-*somewhat good at computer hardware, architecture, organization, Linux systems, cyber security, ethical hacking.
-*can work easily and fluently with C#/.NET, PHP, Python, Java, M-E-A-N stack, C and mySQL.
-*knows B1 level Spanish and French.
-*coded a blockchain from scratch that has its own native token even if nobody uses it.
-*Lives in 2-3 countries depending on work schecule.
-*Can program A.I. algorithms even if not perfect.
-
-these '*'s are what I want to become in the future. Oh, one more: Live healthy, die peacefully. Just kiddin' I don't give a f*
-
+-⚡I tried writing short stories and also compose & record my own songs.
+ 
 
 LIST OF PROGRAMS I'VE CODED:
 
