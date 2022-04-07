@@ -1,4 +1,4 @@
--Working on 🐝------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, Angular, TypeScript, Linux, Computer architecture and Hardware, HTML/CSS, Assembly.
+-Working on 🐝------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, TypeScript, Linux, Computer architecture and Hardware, HTML/CSS, Assembly.
 
 - 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
 
