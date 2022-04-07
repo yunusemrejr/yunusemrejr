@@ -1,4 +1,4 @@
-working on ------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, Angular, TypeScript, Linux, computer architecture and hardware, HTML/CSS. (.NET is fine working with even if I need to google everyhing every second of every minute of every hour BUT Angular and TS are giving me a lot of headache).
+-Working on 🐝------> JavaScript, C++ ,Node.js, C#(.NET), PHP, Python, Java, mongoDB, SQL, Express.js, Angular, TypeScript, Linux, computer architecture and hardware, HTML/CSS. (.NET is fine working with even if I need to google everyhing every second of every minute of every hour BUT Angular and TS are giving me a lot of headache).
 
 - 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
 
