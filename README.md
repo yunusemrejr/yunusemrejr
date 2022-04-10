@@ -27,7 +27,8 @@ LIST OF PROGRAMS I'VE CODED:
 - [Console app that multiples input with Pi (Written in C)](https://github.com/yunusemrejr/C-program-that-multiplies-with-Pi),
 - [C.R.U.D. Application using NodeJS, ExpressJS & MongoDB](https://github.com/yunusemrejr/CRUD-with-NodeJS-ExpressJS-MongoDB),
 - [TypeScript Simple Demo Program](https://github.com/yunusemrejr/TypeScript-Simple-Demo),
-- [Basic Chatbot (C++)](https://github.com/yunusemrejr/Chat-Bot-With-Cpp)
+- [Basic Chatbot (C++)](https://github.com/yunusemrejr/Chat-Bot-With-Cpp),
+- [Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game)
 
 
 Other Repos:
