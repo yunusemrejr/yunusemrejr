@@ -52,3 +52,17 @@ Socials:
 
 [LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177)
 
+---------------------
+
+Education
+
+[Beykoz University - Computer Programming](https://beykoz.edu.tr/) /haven't graduated yet/
+
+
+---------------------
+
+Working at
+
+[ASP OTOMASYON A.Ş.](https://opcturkey.com/)
+
+
