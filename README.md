@@ -2,12 +2,10 @@
 
 - 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
 
-- ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.
-
--⚡I tried writing short stories and also compose & record my own songs.
+- ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-LIST OF PROGRAMS I'VE CODED:
+🐝 My Code / Programs:
 
 - [Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
 - [KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
