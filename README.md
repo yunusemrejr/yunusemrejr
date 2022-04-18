@@ -48,6 +48,7 @@ Websites:
 
 Socials:
 
-[Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn)
+[Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn),
+
 [LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177)
 
