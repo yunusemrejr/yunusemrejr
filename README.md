@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-# 🐝 My Open-Source Code / Programs:
+# 🐝 My Code / Programs (MIT LICENSE):
 
 - [Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
 - [KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
@@ -34,14 +34,14 @@
 
 
 
-# 👻 Other Repos (Open-source):
+# 👻 Other Repos (MIT LICENSE):
 
 -[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
 -[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -[Certificates](https://github.com/yunusemrejr/Certificates)
 
-# 🤠 My Websites (Open-source):
+# 🤠 My Websites (MIT LICENSE):
 
 -[URL ATLAS - Programmer's Directory](http://www.urlatlas.org) || [code](https://github.com/yunusemrejr/URL-ATLAS)
 
