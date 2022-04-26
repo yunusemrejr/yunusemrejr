@@ -32,14 +32,14 @@
 - [SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL)
 
 
-# Other Repos:
+# 👻 Other Repos:
 
 -[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
 -[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -[Certificates](https://github.com/yunusemrejr/Certificates)
 
-# Websites:
+# 🤠 Websites:
 
 -[URL ATLAS - Programmer's Directory](http://www.urlatlas.org) || [code](https://github.com/yunusemrejr/URL-ATLAS)
 
@@ -48,7 +48,7 @@
 
 ---------------------
 
-# Socials:
+# 🐬 Socials:
 
 [Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn),
 
@@ -56,14 +56,14 @@
 
 ---------------------
 
-# Education
+# 🏫 Education
 
 [Beykoz University - Computer Programming](https://beykoz.edu.tr/) /haven't graduated yet/
 
 
 ---------------------
 
-# Working at
+# 🧑‍💼 Working at
 
 [ASP OTOMASYON A.Ş.](https://opcturkey.com/)
 
