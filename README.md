@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-🐝 My Code / Programs:
+##🐝 My Code / Programs:
 
 - [Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
 - [KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
@@ -32,24 +32,24 @@
 - [SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL)
 
 
-Other Repos:
+##Other Repos:
 
 -[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
 -[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -[Certificates](https://github.com/yunusemrejr/Certificates)
 
-Websites:
+##Websites:
 
 -[URL ATLAS - Programmer's Directory](http://www.urlatlas.org) || [code](https://github.com/yunusemrejr/URL-ATLAS)
 
 -[Yevjr.cyou (Personal Portfolio)](http://yevjr.cyou/) || [code](https://github.com/yunusemrejr/YEVJR-CYOU)
 
 ---------------------
-[buy me a coffee☕](https://www.buymeacoffee.com/yunusemrevrgn)
+##[buy me a coffee☕](https://www.buymeacoffee.com/yunusemrevrgn)
 ---------------------
 
-Socials:
+##Socials:
 
 [Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn),
 
@@ -57,14 +57,14 @@ Socials:
 
 ---------------------
 
-Education
+##Education
 
 [Beykoz University - Computer Programming](https://beykoz.edu.tr/) /haven't graduated yet/
 
 
 ---------------------
 
-Working at
+####Working at
 
 [ASP OTOMASYON A.Ş.](https://opcturkey.com/)
 
@@ -72,7 +72,7 @@ Working at
 ---------------------
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&hide=,css,html&theme=tokyonight)
 
- 🧰 Languages and Tools:
+#### 🧰 Languages and Tools:
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
