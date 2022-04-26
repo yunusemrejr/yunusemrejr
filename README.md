@@ -46,7 +46,8 @@
 -[Yevjr.cyou (Personal Portfolio)](http://yevjr.cyou/) || [code](https://github.com/yunusemrejr/YEVJR-CYOU)
 
 ---------------------
-[buy me a coffee☕](https://www.buymeacoffee.com/yunusemrevrgn)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/yunusemrevrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemrevrgn" /></a></p>
 ---------------------
 
 # Socials:
