@@ -34,7 +34,7 @@
 
 
 
-# 👻 Other Repos:
+# 👻 Other Repos (Open-source):
 
 -[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
