@@ -29,7 +29,9 @@
 - [Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game),
 - [C++ Is Text < 1000 Characters? (with GUI)](https://github.com/yunusemrejr/Text-Length-1000-or-Not--),
 - [C++ Chat Bot v.2](https://github.com/yunusemrejr/Chat-Bot-v2-Cpp), 
-- [SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL)
+- [SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL),
+- [SQL table modifier with built-in data graph view with C#/.NET & mySQL](https://github.com/yunusemrejr/C-SHARP-USER-MANAGE-data-graphs)
+
 
 
 # 👻 Other Repos:
