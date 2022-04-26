@@ -69,3 +69,10 @@ Working at
 [ASP OTOMASYON A.Ş.](https://opcturkey.com/)
 
 
+---------------------
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=,css,html&theme=tokyonight)
+
+
+
+
