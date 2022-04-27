@@ -31,7 +31,8 @@
 - [C++ Chat Bot v.2](https://github.com/yunusemrejr/Chat-Bot-v2-Cpp), 
 - [SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL),
 - [SQL table modifier with built-in data graph view with C#/.NET & mySQL](https://github.com/yunusemrejr/C-SHARP-USER-MANAGE-data-graphs),
-- [Android App that has Functional Login+Register Page and a Restaurant Menu(Java,SQLite & Android Studio)](https://github.com/yunusemrejr/Android-App-Register-Login-SQLite)
+- [Android App that has Functional Login+Register Page and a Restaurant Menu(Java,SQLite & Android Studio)](https://github.com/yunusemrejr/Android-App-Register-Login-SQLite),
+- [Simple Library automation in C#/.NET with mySQL](https://github.com/yunusemrejr/Cs-dotNET-Library-Automation-TR)
 
 
 
