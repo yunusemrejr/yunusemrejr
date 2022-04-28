@@ -33,7 +33,7 @@
 - [SQL table modifier with built-in data graph view with C#/.NET & mySQL](https://github.com/yunusemrejr/C-SHARP-USER-MANAGE-data-graphs),
 - [Android App that has Functional Login+Register Page and a Restaurant Menu(Java,SQLite & Android Studio)](https://github.com/yunusemrejr/Android-App-Register-Login-SQLite),
 - [Simple Library automation in C#/.NET with mySQL](https://github.com/yunusemrejr/Cs-dotNET-Library-Automation-TR),
-- [Decimal to Hexi - C program converting decimal array to hex values](https://github.com/yunusemrejr/C-program-decimal-to-hexidecimal)
+- [Int to Hexi - C program converting integer array to hex values](https://github.com/yunusemrejr/C-program-decimal-to-hexidecimal)
 
 
 
