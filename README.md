@@ -37,7 +37,8 @@
 - [Single Threaded Server Socket Program with Java](https://github.com/yunusemrejr/Java-Single-Threaded-Server-Socket-Programming),
 - [Natural language processing (NLP) demo using "Natural" JavaScript library on Node.js](https://github.com/yunusemrejr/NLP-With-Natural-JS),
 - [String Checking With Regex JavaScript](https://github.com/yunusemrejr/String-Check-REGEX-JS),
-- [Multiple user chat room / server with Java sockets](https://github.com/yunusemrejr/Multi-User-Java-Chat-Room)
+- [Multiple user chat room / server with Java sockets](https://github.com/yunusemrejr/Multi-User-Java-Chat-Room),
+- [Java program that encrypts user input with MD5](https://github.com/yunusemrejr/MD5-String-Hasher-Java)
 
 
 
