@@ -38,7 +38,8 @@
 - [Natural language processing (NLP) demo using "Natural" JavaScript library on Node.js](https://github.com/yunusemrejr/NLP-With-Natural-JS),
 - [String Checking With Regex JavaScript](https://github.com/yunusemrejr/String-Check-REGEX-JS),
 - [Multiple user chat room / server with Java sockets](https://github.com/yunusemrejr/Multi-User-Java-Chat-Room),
-- [Java program that encrypts user input with MD5](https://github.com/yunusemrejr/MD5-String-Hasher-Java)
+- [Java program that encrypts user input with MD5](https://github.com/yunusemrejr/MD5-String-Hasher-Java),
+- [View mySQL table via Node.js express server](https://github.com/yunusemrejr/NodeJS-View-mySQL-Table)
 
 
 
