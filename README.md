@@ -41,7 +41,8 @@
 - [Java program that encrypts user input with MD5](https://github.com/yunusemrejr/MD5-String-Hasher-Java),
 - [View mySQL table via Node.js express server](https://github.com/yunusemrejr/NodeJS-View-mySQL-Table),
 - [Weather Web API Client using Vue.Js](https://github.com/yunusemrejr/Vue-Js-Weather-App),
-- [GSAP ScrollTrigger Angular Demo](https://github.com/yunusemrejr/Moving-Labels-Frontend-Demo-GSAP-ScrollTrigger-and-Angular)
+- [GSAP ScrollTrigger Angular Demo](https://github.com/yunusemrejr/Moving-Labels-Frontend-Demo-GSAP-ScrollTrigger-and-Angular),
+- [JavaScript brute forcing a string](https://github.com/yunusemrejr/Brute-Forcing-A-JS-String)
 
 
 
