@@ -43,7 +43,8 @@
 - [Weather Web API Client using Vue.Js](https://github.com/yunusemrejr/Vue-Js-Weather-App),
 - [GSAP ScrollTrigger Angular Demo](https://github.com/yunusemrejr/Moving-Labels-Frontend-Demo-GSAP-ScrollTrigger-and-Angular),
 - [JavaScript brute forcing a string](https://github.com/yunusemrejr/Brute-Forcing-A-JS-String),
-- [Adventures On Fire (Console game with Java)](https://github.com/yunusemrejr/AdventuresOnFire)
+- [Adventures On Fire (Console game with Java)](https://github.com/yunusemrejr/AdventuresOnFire),
+- [Display Current Date & Time using Java Server Packages (JSP)](https://github.com/yunusemrejr/JSP-Display-Date)
 
 
 
