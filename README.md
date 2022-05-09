@@ -44,7 +44,9 @@
 - [GSAP ScrollTrigger Angular Demo](https://github.com/yunusemrejr/Moving-Labels-Frontend-Demo-GSAP-ScrollTrigger-and-Angular),
 - [JavaScript brute forcing a string](https://github.com/yunusemrejr/Brute-Forcing-A-JS-String),
 - [Adventures On Fire (Console game with Java)](https://github.com/yunusemrejr/AdventuresOnFire),
-- [Display Current Date & Time using Java Server Packages (JSP)](https://github.com/yunusemrejr/JSP-Display-Date)
+- [Display Current Date & Time using Java Server Packages (JSP)](https://github.com/yunusemrejr/JSP-Display-Date),
+- [URL ATLAS - Programmer's Directory - Full Directory Website (latest version)](#) || [old versions](https://github.com/yunusemrejr/URL-ATLAS),
+-[Personal Portfolio Website](https://github.com/yunusemrejr/YEVJR-CYOU) 
 
 
 
@@ -55,11 +57,6 @@
 -[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -[Certificates](https://github.com/yunusemrejr/Certificates)
 
-# 🤠 My Websites (MIT LICENSE):
-
--[URL ATLAS - Programmer's Directory](http://www.urlatlas.org) || [code](https://github.com/yunusemrejr/URL-ATLAS)
-
--[Yevjr.cyou (Personal Portfolio)](http://yevjr.cyou/) || [code](https://github.com/yunusemrejr/YEVJR-CYOU)
 
 
 ---------------------
@@ -108,9 +105,4 @@
 ---------------------
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yunusemrevrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemrevrgn" /></a></p>
-
-
  
-
-
-
