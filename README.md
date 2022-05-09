@@ -45,8 +45,8 @@
 - [JavaScript brute forcing a string](https://github.com/yunusemrejr/Brute-Forcing-A-JS-String),
 - [Adventures On Fire (Console game with Java)](https://github.com/yunusemrejr/AdventuresOnFire),
 - [Display Current Date & Time using Java Server Packages (JSP)](https://github.com/yunusemrejr/JSP-Display-Date),
-- [URL ATLAS - Programmer's Directory - Full Directory Website using PHP, JS, HTML/CSS, mySQL (latest version)](#)/[old versions](https://github.com/yunusemrejr/URL-ATLAS),
--[Personal Portfolio Website Example 1 (HTML, CSS , JS)](https://github.com/yunusemrejr/YEVJR-CYOU) 
+- [URL ATLAS - Programmer's Directory - Full Directory Website using PHP, JS, HTML/CSS, mySQL (latest version)](#)/[old versions](https://github.com/yunusemrejr/URL-ATLAS), 
+- [Personal Portfolio Website Example 1 (HTML, CSS , JS)](https://github.com/yunusemrejr/YEVJR-CYOU) 
 
 
 
