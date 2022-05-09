@@ -78,7 +78,9 @@
 
 [Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn),
 
-[LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177)
+[LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177),
+
+[Instagram](https://www.instagram.com/yunus_emrevurgun/)
 
 ---------------------
 
