@@ -74,6 +74,8 @@
  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="visualstudio" width="60" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" width="40" height="40"/> </a><a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="60" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vuejs" width="40" height="40"/> </a><a href="https://cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/11/CPanel-PNG-Pic.png" alt="cpanel" width="40" height="40"/> </a>
 
+ 
+ <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="cpanel" width="40" height="40"/> </a>
  </p>
 
 ----------------------
