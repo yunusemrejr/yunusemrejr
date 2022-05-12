@@ -51,7 +51,7 @@
 - 💾[Dynamic JSON Loading with AJAX | XMLHttpRequest](https://github.com/yunusemrejr/Dynamic-JSON-Loading-with-AJAX-XMLHttpRequest),
 - 💾[Our Products - PHP search inside mySQL Table with basic JS front-end security & JS availibility detection via POST request](https://github.com/yunusemrejr/Our-Products---PHP-search-inside-mySQL-Table-with-basic-security),
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
-- 💾Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI)
+- 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI)
 
 
 
