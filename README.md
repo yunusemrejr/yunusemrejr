@@ -53,7 +53,8 @@
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
 - 💾[Java program that multiplies two matrices](https://github.com/yunusemrejr/Matrix-Multiplication-Java),
-- 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid)
+- 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
+- 💾[OOP Encapsulation Example in Java](https://github.com/yunusemrejr/Java-Encapsulation-Example)
 
 
 
