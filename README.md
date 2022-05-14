@@ -54,7 +54,8 @@
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
 - 💾[Java program that multiplies two matrices](https://github.com/yunusemrejr/Matrix-Multiplication-Java),
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
-- 💾[OOP Encapsulation Example in Java](https://github.com/yunusemrejr/Java-Encapsulation-Example)
+- 💾[OOP Encapsulation Example in Java](https://github.com/yunusemrejr/Java-Encapsulation-Example),
+- 💾[Numbers From Numbers - Java CLI program that uses the OOP encapsulation method which returns *Pi & sqrt](https://github.com/yunusemrejr/Java-Numbers-From-Numbers-OOP)
 
 
 
