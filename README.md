@@ -92,8 +92,6 @@
 
 [Instagram](https://www.instagram.com/yunus_emrevurgun/)
 
-[Freelancer.com](https://www.freelancer.com/u/yunusemrejr)
-
 ---------------------
 
 # 🏫 Education
@@ -115,6 +113,8 @@
 [Fiverr](https://www.fiverr.com/yunusschannel)
 
 [CodeClerks](https://codeclerks.com/user/yuyu2000)
+
+[Freelancer.com](https://www.freelancer.com/u/yunusemrejr)
 
 ---------------------
 <h3 align="left">Support:</h3>
