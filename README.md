@@ -56,7 +56,8 @@
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
 - 💾[OOP Encapsulation Example in Java](https://github.com/yunusemrejr/Java-Encapsulation-Example),
 - 💾[Numbers From Numbers - Java CLI program that uses the OOP encapsulation method which returns *Pi & sqrt](https://github.com/yunusemrejr/Java-Numbers-From-Numbers-OOP),
-- 💾[Taking Average With Java](https://github.com/yunusemrejr/Taking-Average-With-Java)
+- 💾[Taking Average With Java](https://github.com/yunusemrejr/Taking-Average-With-Java),
+- 💾[Java CLI program that splits user input string by character](https://github.com/yunusemrejr/Java-Split-Input-by-Char-and-Count)
 
 
 
