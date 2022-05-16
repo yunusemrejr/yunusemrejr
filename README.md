@@ -94,6 +94,8 @@
 
 [Instagram](https://www.instagram.com/yunus_emrevurgun/)
 
+[YouTube](https://www.youtube.com/channel/UC1lBm9ipV1au7VIcbALV2HA)
+
 ---------------------
 
 # 🏫 Education
