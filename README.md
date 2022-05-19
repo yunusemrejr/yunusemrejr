@@ -58,7 +58,8 @@
 - 💾[Numbers From Numbers - Java CLI program that uses the OOP encapsulation method which returns *Pi & sqrt](https://github.com/yunusemrejr/Java-Numbers-From-Numbers-OOP),
 - 💾[Taking Average With Java](https://github.com/yunusemrejr/Taking-Average-With-Java),
 - 💾[Java CLI program that splits user input string by character](https://github.com/yunusemrejr/Java-Split-Input-by-Char-and-Count),
-- 💾[Client-Server File Transmission in Java](https://github.com/yunusemrejr/Client-Server-File-Transfer-Java)
+- 💾[Client-Server File Transmission in Java](https://github.com/yunusemrejr/Client-Server-File-Transfer-Java),
+- 💾[Java Dynamic Web App Connecting to MySQL DB for Login *JSP/Servlet](https://github.com/yunusemrejr/Java-JSP-Servlet-Login-Page-MySQL)
 
 
 
