@@ -61,7 +61,8 @@
 - 💾[Client-Server File Transmission in Java](https://github.com/yunusemrejr/Client-Server-File-Transfer-Java),
 - 💾[Java Dynamic Web App Connecting to MySQL DB for Login *JSP/Servlet](https://github.com/yunusemrejr/Java-JSP-Servlet-Login-Page-MySQL),
 - 💾[Java Spring Boot return HTML code to localhost](https://github.com/yunusemrejr/Spring-Boot-Hello-HTML-Response),
-- 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart)
+- 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart),
+- 💾[Java Web App (API) with Spring Boot Framework with in-memory database](https://github.com/yunusemrejr/Java-Spring-Boot-API-Demo-App)
 
 
 
