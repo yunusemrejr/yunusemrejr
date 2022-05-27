@@ -6,10 +6,19 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-# 🐝 My Code / Programs from oldest to newest (MIT LICENSE):
+# 🐝 My Best Programs / Code (MIT LICENSE):
 
-- 💾[Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
 - 💾[KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
+- 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
+- 💾[Java Web App (API) with Spring Boot Framework with in-memory database](https://github.com/yunusemrejr/Java-Spring-Boot-API-Demo-App),
+- 💾[C.R.U.D. Application using NodeJS, ExpressJS & MongoDB](https://github.com/yunusemrejr/CRUD-with-NodeJS-ExpressJS-MongoDB),
+- 💾[Modify Database - .NET/C# Desktop application that modifies mySQL data](https://github.com/yunusemrejr/Modify-Database-Cs-NET)
+- 💾[View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
+
+
+
+- - 💾[Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
+
 - 💾[JSchain - Simple JavaScript / Node.js Blockchain With an Integrity Checking Mechanism](https://github.com/yunusemrejr/JSchain---Simple-JavaScript-Node.js-Blockchain-With-an-Integrity-Checking-Mechanism),
 - 💾[1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/1-to-9-number-information),
 - 💾[Random Quote Generator APK (Java with Android Studio)](https://github.com/yunusemrejr/Random-Quote-Generator-APK),
@@ -20,11 +29,9 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - 💾[User Status Checker (.NET/C#, SQL)](https://github.com/yunusemrejr/User-Status-Checker),
 - 💾[.NET form mySQL user list viewer (.NET/C#, SQL)](https://github.com/yunusemrejr/.NET-form-mySQL-user-list-viewer),
 - 💾[.NET form-Browse World Cities Database (With Simple Calculator Added) (.NET/C#, SQL)](https://github.com/yunusemrejr/dotNET-Csharp-BrowseWorldDB),
-- 💾[Modify Database - .NET/C# Desktop application that modifies mySQL data](https://github.com/yunusemrejr/Modify-Database-Cs-NET)
-- 💾[View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
+
 - 💾[Pi Calculator (PHP)](https://github.com/yunusemrejr/PHP-Pi),
 - 💾[Console app that multiples input with Pi (Written in C)](https://github.com/yunusemrejr/C-program-that-multiplies-with-Pi),
-- 💾[C.R.U.D. Application using NodeJS, ExpressJS & MongoDB](https://github.com/yunusemrejr/CRUD-with-NodeJS-ExpressJS-MongoDB),
 - 💾[TypeScript Simple Demo Program](https://github.com/yunusemrejr/TypeScript-Simple-Demo),
 - 💾[Basic Chatbot (C++)](https://github.com/yunusemrejr/Chat-Bot-With-Cpp),
 - 💾[Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game),
@@ -52,7 +59,6 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - 💾[Dynamic JSON Loading with AJAX | XMLHttpRequest](https://github.com/yunusemrejr/Dynamic-JSON-Loading-with-AJAX-XMLHttpRequest),
 - 💾[Our Products - PHP search inside mySQL Table with basic JS front-end security & JS availibility detection via POST request](https://github.com/yunusemrejr/Our-Products---PHP-search-inside-mySQL-Table-with-basic-security),
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
-- 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
 - 💾[Java program that multiplies two matrices](https://github.com/yunusemrejr/Matrix-Multiplication-Java),
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
 - 💾[OOP Encapsulation Example in Java](https://github.com/yunusemrejr/Java-Encapsulation-Example),
@@ -63,8 +69,7 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - 💾[Java Dynamic Web App Connecting to MySQL DB for Login *JSP/Servlet](https://github.com/yunusemrejr/Java-JSP-Servlet-Login-Page-MySQL),
 - 💾[Java Spring Boot return HTML code to localhost](https://github.com/yunusemrejr/Spring-Boot-Hello-HTML-Response),
 - 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart),
-- 💾[Java Web App (API) with Spring Boot Framework with in-memory database](https://github.com/yunusemrejr/Java-Spring-Boot-API-Demo-App)
-
+See More...
 
 
 # 👻 Other Repos (MIT LICENSE):
