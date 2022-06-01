@@ -51,4 +51,5 @@
 - 💾[Java Dynamic Web App Connecting to MySQL DB for Login *JSP/Servlet](https://github.com/yunusemrejr/Java-JSP-Servlet-Login-Page-MySQL),
 - 💾[Java Spring Boot return HTML code to localhost](https://github.com/yunusemrejr/Spring-Boot-Hello-HTML-Response),
 - 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart),
-- 💾[Java Spring Boot Security Example](https://github.com/yunusemrejr/SpringSecurityDemo)
+- 💾[Java Spring Boot Security Example](https://github.com/yunusemrejr/SpringSecurityDemo),
+- 💾[Simple Java CLI program about Boolean Algebra](https://github.com/yunusemrejr/JavaBooleanAlgebraToolCLI)
