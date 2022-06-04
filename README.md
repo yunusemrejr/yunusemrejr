@@ -1,6 +1,6 @@
 Learning 🐝⬇️
 
-Actively ➡️ Java, PHP, JavaScript, HTML/CSS, SQL
+Actively ➡️ Java, PHP, JavaScript, CSS, SQL
 
 Eager to Learn ➡️
 Graphana & influxDB,
