@@ -1,6 +1,4 @@
--Learning 🐝------>Mostly: Java, JavaScript, PHP.
-Sometimes trying: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux, Computer Architecture and Hardware, HTML/CSS, Assembly...and many many more.
-
+-Learning 🐝------>Mostly: Java, JavaScript and PHP
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
