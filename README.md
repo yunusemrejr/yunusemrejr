@@ -2,7 +2,7 @@ Learning 🐝⬇️
 
 Actively ➡️ Java, PHP, JavaScript, HTML/CSS, SQL
 
-Eager to Learn ⬇️
+Eager to Learn ➡️
 Graphana & influxDB,
 C, Python, 
 mongoDB,  
