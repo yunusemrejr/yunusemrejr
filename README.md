@@ -4,7 +4,7 @@ Actively ➡️ Java, PHP, JavaScript, CSS, SQL
 
 Eager to Learn ➡️
 Graphana & influxDB,
-C, Python, 
+other programming languages, 
 mongoDB,  
 Linux, 
 VM & Cloud,
