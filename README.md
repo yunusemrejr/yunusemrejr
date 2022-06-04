@@ -6,7 +6,7 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-# 🐝 My Best Programs / Code (MIT LICENSE):
+# 🐝 My Code:
 
 - 💾[KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
@@ -17,10 +17,10 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 - 💾[Client-Server File Transmission in Java](https://github.com/yunusemrejr/Client-Server-File-Transfer-Java),
 
 
-[See My Other Programs...](https://github.com/yunusemrejr/yunusemrejr/blob/main/MORE.md)
+[See My Other Code...](https://github.com/yunusemrejr/yunusemrejr/blob/main/MORE.md)
 
 
-# 👻 Other Repos (MIT LICENSE):
+# 👻 Other Repos:
 
 -🔌[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
 -🔌[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
@@ -31,7 +31,7 @@ Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux,
 
 ---------------------
 
-# 🧰 Languages and Tools I Use/Used:
+# 🧰 Languages and Tools I am Learning:
 <p align="left">  
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
