@@ -1,12 +1,12 @@
--Working on 🐝------>Mostly: Java, JavaScript, PHP.
-Sometimes: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux, Computer Architecture and Hardware, HTML/CSS, Assembly...and many many more.
+-Learning 🐝------>Mostly: Java, JavaScript, PHP.
+Sometimes trying: C/C++ ,C#(.NET), Python, mongoDB, SQL, Express.js, TypeScript, Linux, Computer Architecture and Hardware, HTML/CSS, Assembly...and many many more.
 
-- 📫 How to reach me: Here is my 'available to all' e-mail address: elroystultus@gmail.com. Professional one? Here: yunus.vurgun@aspotomasyon.com
+- 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
 - ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
  
 
-# 🐝 My Code:
+# 🐝 My Code / Learning:
 
 - 💾[KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
