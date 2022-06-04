@@ -12,7 +12,7 @@ Computer Hardware, Assembly & more interesting technologies
 
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
-- ⚡ Fun fact: I play the guitar. I like working with graphics. I speak native Turkish & good English.
+- ⚡ Fun fact: I play the guitar. I like working with graphics. I love books. I speak native Turkish & good English.
  
 
 # 🐝 My Code / Learning:
