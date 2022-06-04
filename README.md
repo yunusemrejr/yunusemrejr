@@ -1,7 +1,18 @@
--Learning 🐝------>Mostly: Java, JavaScript and PHP
+Learning 🐝———>
+
+Actively : Java, PHP, JavaScript, HTML/CSS, SQL
+
+Eager to Learn : 
+Graphana & influxDB,
+C, Python, 
+mongoDB,  
+Linux, 
+VM & Cloud,
+Computer Hardware, Assembly.
+
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
-- ⚡ Fun fact: I play the guitar, some piano, some ukulele too. I like designing simple logos, putting visual assets together.I tried writing short stories and also compose & record my own songs. I speak Turkish & English.
+- ⚡ Fun fact: I play the guitar. I like working with graphics. I speak native Turkish & good English.
  
 
 # 🐝 My Code / Learning:
@@ -17,15 +28,7 @@
 
 [See My Other Code...](https://github.com/yunusemrejr/yunusemrejr/blob/main/MORE.md)
 
-
-# 👻 Other Repos:
-
--🔌[Digital Circuit Designs](https://github.com/yunusemrejr/CircuitsWithDigitalWorks),
--🔌[Physical Circuit Designs](https://github.com/yunusemrejr/PhysicalCircuits),
--💽[Assembly Code with emu8086 assembler](https://github.com/yunusemrejr/Assembly),
 -📜[My Certificates](https://github.com/yunusemrejr/Certificates)
-
-
 
 ---------------------
 
@@ -58,13 +61,11 @@
 
 [Beykoz University - Computer Programming](https://beykoz.edu.tr/) /haven't graduated yet/
 
-
 ---------------------
 
 # 🧑‍💼 Working at
 
 [ASP OTOMASYON A.Ş.](https://opcturkey.com/)
-
 
 ---------------------
 
@@ -78,11 +79,11 @@
 
 ---------------------
 
-# 🌎 Personal Website
+# 🌎 Personal Blog
 
 [Yunusevurgun.blogspot.com](https://yunusevurgun.blogspot.com/)
 
 --------------------
-<h3 align="left">Support:</h3>
+<h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/yunusemrevrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemrevrgn" /></a></p>
  
