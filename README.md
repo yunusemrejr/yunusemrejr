@@ -8,7 +8,7 @@ other programming languages,
 mongoDB,  
 Linux, 
 VM & Cloud,
-Computer Hardware, Assembly.
+Computer Hardware, Assembly & more interesting technologies
 
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
