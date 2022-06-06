@@ -1,6 +1,6 @@
 Learning / Working on🐝⬇️
 
-Actively ➡️ Java, PHP, JavaScript, CSS, SQL for the last 2 years.
+Actively ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
 Interested in learning more about ➡️
 Graphana & influxDB,
