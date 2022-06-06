@@ -2,7 +2,7 @@ Learning 🐝⬇️
 
 Actively ➡️ Java, PHP, JavaScript, CSS, SQL for the last 2 years.
 
-Eager to Learn ➡️
+Interested in learning more about ➡️
 Graphana & influxDB,
 other programming languages, 
 mongoDB,  
