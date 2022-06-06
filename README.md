@@ -15,7 +15,7 @@ Computer Hardware, Assembly & more interesting technologies
 - ⚡ Fun fact: I play the guitar. I like working with graphics. I love books. I speak native Turkish & good English.
  
 
-# 🐝 My Code / Learning:
+# 🐝 My Code:
 
 - 💾[KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
