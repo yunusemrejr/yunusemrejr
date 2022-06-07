@@ -3,12 +3,13 @@ Learning / Working on🐝⬇️
 Actively ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
 Interested in learning more about ➡️
-Graphana & influxDB,
+Computer Hardware,
+Linux,
 other programming languages, 
+Graphana & influxDB,
 mongoDB,  
-Linux, 
 VM & Cloud,
-Computer Hardware, Assembly & more interesting technologies
+Assembly & more interesting technologies.
 
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
@@ -65,6 +66,13 @@ Computer Hardware, Assembly & more interesting technologies
 
 [Yunusevurgun.blogspot.com](https://yunusevurgun.blogspot.com/)
 
+--------------------
+
+# ✍️ Practicing as I Learn
+
+[Assembly](https://github.com/yunusemrejr/Assembly)
+[Physical Circuits](https://github.com/yunusemrejr/PhysicalCircuits)
+[Digital Circuits](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)
 --------------------
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/yunusemrevrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemrevrgn" /></a></p>
