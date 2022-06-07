@@ -1,8 +1,8 @@
-Learning / Working on🐝⬇️
 
-Actively ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
-Interested in learning more about ➡️
+Actively learning and practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
+
+Interested in learning more about 🔍 ➡️
 Computer Hardware,
 Linux,
 other programming languages, 
