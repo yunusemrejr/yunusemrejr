@@ -70,9 +70,10 @@ Assembly & more interesting technologies.
 
 # ✍️ Practicing as I Learn
 
-[Assembly](https://github.com/yunusemrejr/Assembly)
-[Physical Circuits](https://github.com/yunusemrejr/PhysicalCircuits)
+[Assembly](https://github.com/yunusemrejr/Assembly),
+[Physical Circuits](https://github.com/yunusemrejr/PhysicalCircuits),
 [Digital Circuits](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)
+
 --------------------
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/yunusemrevrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunusemrevrgn" /></a></p>
