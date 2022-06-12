@@ -40,7 +40,7 @@ Assembly & more interesting technologies.
 
 # 🏫 Education
 
-[Beykoz University - Computer Programming](https://beykoz.edu.tr/) (haven't graduated yet)
+[Beykoz University - Computer Programming (A.S. Degree)](https://beykoz.edu.tr/)  (haven't graduated yet)
 
 -📜[My Certificates](https://github.com/yunusemrejr/Certificates)
 
