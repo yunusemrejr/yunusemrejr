@@ -68,6 +68,12 @@ Assembly & more interesting technologies.
 
 --------------------
 
+# 🌎 Websites
+
+[javandscript.com](https://www.javandscript.com/)
+
+--------------------
+
 # ✍️ Practicing as I Learn
 
 [Assembly](https://github.com/yunusemrejr/Assembly),
