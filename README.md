@@ -2,7 +2,7 @@ Hi! I'm Yunus, a 22 year old computer programming student.
 
 Actively learning and practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
-Interested in learning more about 🔍 ➡️
+Interested in learning 🔍 ➡️
 Computer Hardware,
 Linux,
 other programming languages, 
