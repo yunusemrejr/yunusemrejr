@@ -20,7 +20,8 @@
 - 💾[Display Current Date & Time using Java Server Packages (JSP)](https://github.com/yunusemrejr/JSP-Display-Date),
 - 💾[Java program that multiplies two matrices](https://github.com/yunusemrejr/Matrix-Multiplication-Java),
 - 💾[Java user login system with Swing & MySQL](https://github.com/yunusemrejr/Java-Swing-MySQL-Login),
-- 💾[Client-Server Apple-like messenger app with JavaFX and Sockets](https://github.com/yunusemrejr/JavaFX-Chat)
+- 💾[Client-Server Apple-like messenger app with JavaFX and Sockets](https://github.com/yunusemrejr/JavaFX-Chat),
+- 💾[Java CLI app that (supposedly) finds genes from a DNA string (ATG as start codon and TAA,TGA,TAG as stop codons) *unfinished](https://github.com/yunusemrejr/Java-DNA-unfinished/blob/main/Main.java)
 
 
 # JavaScript
