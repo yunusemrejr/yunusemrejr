@@ -61,7 +61,7 @@ Databases.
 
 # 🌎 Personal Blog
 
-[Yunusevurgun.blogspot.com](https://yunusevurgun.blogspot.com/)
+[https://www.yunusemrevurgun.com/](https://www.yunusemrevurgun.com/)
 
 --------------------
 
