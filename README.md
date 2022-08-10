@@ -67,7 +67,7 @@ Databases.
 
 # 🌎 Websites
 
-[javandscript.com](https://www.javandscript.com/) / ([WebArchive](https://web.archive.org/web/*/https://www.javandscript.com/)) *Online,
+[javandscript.com](#) / ([WebArchive](https://web.archive.org/web/*/https://www.javandscript.com/)) *Offline
 
 [urlatlas.org](#) / ([WebArchive](https://web.archive.org/web/*/https://www.urlatlas.org/)) *Offline
 
