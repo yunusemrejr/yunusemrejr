@@ -6,8 +6,7 @@ Also interested in  🔍 ➡️
 Computer Hardware,
 Linux,
 other programming languages, 
-Graphana & influxDB,
-mongoDB,  
+noSQL, data visualisation, 
 VM & Cloud,
 Assembly & more interesting technologies.
 
