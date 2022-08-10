@@ -2,13 +2,11 @@ Hi! I'm Yunus, a 22 year old computer programming student.
 
 Actively learning and practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
-Also interested in  🔍 ➡️
+interested in  🔍 ➡️
 Computer Hardware,
-Linux,
-other programming languages, 
-noSQL, data visualisation, 
-VM & Cloud,
-Assembly & more interesting technologies.
+Operating Systems,
+Programming languages, 
+Databases.
 
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
