@@ -24,7 +24,7 @@
 - 💾[Java CLI app that (supposedly) finds genes from a DNA string (ATG as start codon and TAA,TGA,TAG as stop codons) *unfinished](https://github.com/yunusemrejr/Java-DNA-unfinished/blob/main/Main.java),
 - 💾[Read CSV Data with Java](https://github.com/yunusemrejr/CSV-Read-Data-Java),
 - 💾[Java HttpRequest Examples](https://github.com/yunusemrejr/JavaHttpRequestExamples),
-- 💾[OPCTurkey's Java Swing Advanced API Client for KepServerEX](https://github.com/yunusemrejr/OPCTurkey_KepServerEX-Desktop-API-Client)
+- 💾[OPCTurkey's Java Swing API Client for KepServerEX](https://github.com/yunusemrejr/OPCTurkey_KepServerEX-Desktop-API-Client)
 
 # JavaScript
 - 💾[Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
