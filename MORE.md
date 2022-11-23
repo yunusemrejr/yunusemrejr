@@ -71,3 +71,4 @@
 - 💾[Int to Hexi - C program converting integer array to hex values](https://github.com/yunusemrejr/C-program-decimal-to-hexidecimal),
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
+- 💾[SQL Query Examples: Spacecrafts & Planets for MariaDB / MySQL](https://github.com/yunusemrejr/SQL-Examples-11-23-2022/blob/main/space-stuff.sql)
