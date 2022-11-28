@@ -1,6 +1,6 @@
-Hi! I'm Yunus, a 22 year old computer programming student.
+Hi! I'm Yunus, a 22 year old computer programmer.
 
-Actively learning and practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
+Actively practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
 
 interested in  🔍 ➡️
 Computer Hardware,
@@ -37,7 +37,7 @@ Databases.
 
 # 🏫 Education
 
-[Beykoz University - Computer Programming (A.S. Degree)](https://beykoz.edu.tr/)  (haven't graduated yet)
+[Beykoz University - Computer Programming (A.S. Degree)](https://beykoz.edu.tr/)
 
 -📜[My Certificates](https://github.com/yunusemrejr/Certificates)
 
