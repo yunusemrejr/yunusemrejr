@@ -50,7 +50,8 @@
 - 💾[Our Products - PHP search inside mySQL Table with basic JS front-end security & JS availibility detection via POST request](https://github.com/yunusemrejr/Our-Products---PHP-search-inside-mySQL-Table-with-basic-security),
 - 💾[PHP & MySQL Add-Delete User Data with Bootstrap CSS](https://github.com/yunusemrejr/PHP-Add-Delete-MySQL-new),
 - 💾[Source code for my website Javandscript.com](https://github.com/yunusemrejr/javandscript.com),
-- 💾[User & Admin Login panel with PHP & MySQL](https://github.com/yunusemrejr/PHP-Admin-User-Login)
+- 💾[User & Admin Login panel with PHP & MySQL](https://github.com/yunusemrejr/PHP-Admin-User-Login),
+- 💾[Echo random stuff then ask & display user input](https://github.com/yunusemrejr/PHP_print_stuff_and_ask_display_input)
 
 
 # Other
