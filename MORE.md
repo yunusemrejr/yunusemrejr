@@ -40,7 +40,8 @@
 - 💾[Dynamic JSON Loading with AJAX | XMLHttpRequest](https://github.com/yunusemrejr/Dynamic-JSON-Loading-with-AJAX-XMLHttpRequest),
 - 💾[To-do Application (Browser) with JavaScript, CSS & HTML](https://github.com/yunusemrejr/to-do-app-JS),
 - 💾[Iframe Map Demo](https://github.com/yunusemrejr/iframe-map-demo-html),
-- 💾[Add array of integers and count array elements](https://github.com/yunusemrejr/JS_add_array_integers_and_count)
+- 💾[Add array of integers and count array elements](https://github.com/yunusemrejr/JS_add_array_integers_and_count), 
+- 💾[HTML font-size changer floating bar with JavaScript and CSS](https://github.com/yunusemrejr/JS-webpage-font-size-changer)
 
 
 # PHP
