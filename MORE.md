@@ -43,7 +43,8 @@
 - 💾[Add array of integers and count array elements](https://github.com/yunusemrejr/JS_add_array_integers_and_count), 
 - 💾[HTML font-size changer floating bar with JavaScript and CSS](https://github.com/yunusemrejr/JS-webpage-font-size-changer),
 - 💾[E-mail Name Idea Generator](https://github.com/yunusemrejr/emailnamegenerator),
-- 💾[Strong Password Generator](https://github.com/yunusemrejr/strongpasswordgenerator)
+- 💾[Strong Password Generator](https://github.com/yunusemrejr/strongpasswordgenerator),
+- 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator)
 
 
 # PHP
