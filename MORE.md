@@ -44,7 +44,8 @@
 - 💾[HTML font-size changer floating bar with JavaScript and CSS](https://github.com/yunusemrejr/JS-webpage-font-size-changer),
 - 💾[E-mail Name Idea Generator](https://github.com/yunusemrejr/emailnamegenerator),
 - 💾[Strong Password Generator](https://github.com/yunusemrejr/strongpasswordgenerator),
-- 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator)
+- 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator),
+- 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw)
 
 
 # PHP
