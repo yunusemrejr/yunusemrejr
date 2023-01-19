@@ -46,8 +46,8 @@
 - 💾[Strong Password Generator](https://github.com/yunusemrejr/strongpasswordgenerator),
 - 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator),
 - 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw),
-- 💾[Keyword Counter](https://github.com/yunusemrejr/keywordcounterJS)
-
+- 💾[Keyword Counter](https://github.com/yunusemrejr/keywordcounterJS),
+- 💾[CSS Title Generator](https://github.com/yunusemrejr/css-title-generator-JS)
 
 # PHP
 - 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart),
