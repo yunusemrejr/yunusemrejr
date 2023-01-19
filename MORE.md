@@ -45,7 +45,8 @@
 - 💾[E-mail Name Idea Generator](https://github.com/yunusemrejr/emailnamegenerator),
 - 💾[Strong Password Generator](https://github.com/yunusemrejr/strongpasswordgenerator),
 - 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator),
-- 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw)
+- 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw),
+- 💾[Keyword Counter](https://github.com/yunusemrejr/keywordcounterJS)
 
 
 # PHP
