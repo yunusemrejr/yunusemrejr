@@ -61,7 +61,7 @@
 
 
 # Other
-- 💾[1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/earthquakehelpersdotcom
+- 💾[Earthquake Helpers .com](https://github.com/yunusemrejr/earthquakehelpersdotcom
 ),
 - 💾[1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/1-to-9-number-information),
 - 💾[Words to Password (C++)](https://github.com/yunusemrejr/Worlds-to-Password-CPP),
