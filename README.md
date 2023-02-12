@@ -71,6 +71,9 @@ Databases.
 
 [urlatlas.org](#) / ([WebArchive](https://web.archive.org/web/*/https://www.urlatlas.org/)) *Offline
 
+[earthquakehelpers.com](https://earthquakehelpers.com)  *Online
+
+
 --------------------
 
 # ✍️ Practicing as I Learn
