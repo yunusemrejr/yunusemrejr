@@ -47,7 +47,9 @@
 - 💾[Domain Idea Generator](https://github.com/yunusemrejr/domainideagenerator),
 - 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw),
 - 💾[Keyword Counter](https://github.com/yunusemrejr/keywordcounterJS),
-- 💾[CSS Title Generator](https://github.com/yunusemrejr/css-title-generator-JS)
+- 💾[CSS Title Generator](https://github.com/yunusemrejr/css-title-generator-JS),
+- 💾[Objects & Parameters Example](https://github.com/yunusemrejr/javascript-objects-example-for-loop)
+
 
 # PHP
 - 💾[Shopping Cart with PHP & MySQL (+CSS/HTML)](https://github.com/yunusemrejr/PHP-MySQL-Shopping-Cart),
