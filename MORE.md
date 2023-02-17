@@ -63,6 +63,7 @@
 
 
 # Other
+- 💾[usernameGenerator / Node.js Express and MySQL Username Generator](https://github.com/yunusemrejr/usernameGenerator),
 - 💾[Earthquake Helpers .com](https://github.com/yunusemrejr/earthquakehelpersdotcom
 ),
 - 💾[1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/1-to-9-number-information),
