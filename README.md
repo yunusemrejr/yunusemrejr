@@ -14,7 +14,7 @@ Databases.
  
 
 # 🐝 My Code:
-- 💾[KEPServerEX API Client with Java Swing](https://github.com/yunusemrejr/OPCTurkey_KepServerEX-Desktop-API-Client),
+- 💾[KEPServerEX API Client with Java Swing](https://github.com/yunusemrejr/KepServerExDesktopClient),
 - 💾[KepServerEX REST API web client (JavaScript, CSS, HTML)](https://github.com/yunusemrejr/KepServerEX-REST-API-web-client),
 - 💾[Scientific Calculator Desktop App Written in Java With GUI. (runs as .jar file)](https://github.com/yunusemrejr/Java-Scientific-Calculator-With-GUI),
 - 💾[View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
