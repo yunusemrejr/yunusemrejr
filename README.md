@@ -59,7 +59,7 @@ Databases.
 
 ---------------------
 
-# 🌎 Personal Blog
+# 🌎 Personal Website
 
 [https://www.yunusemrevurgun.com/](https://www.yunusemrevurgun.com/)
 
