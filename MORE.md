@@ -63,6 +63,7 @@
 
 
 # Other
+- 💾[SQL Query Builder](https://github.com/yunusemrejr/SQL-Query-Builder),
 - 💾[Node.js Application with Microsoft SQL Server DB](https://github.com/yunusemrejr/SQL-SERVER-NODEJS),
 - 💾[usernameGenerator / Node.js Express and MySQL Username Generator](https://github.com/yunusemrejr/usernameGenerator),
 - 💾[Earthquake Helpers .com](https://github.com/yunusemrejr/earthquakehelpersdotcom
