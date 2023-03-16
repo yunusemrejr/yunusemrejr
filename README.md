@@ -1,6 +1,6 @@
 Hi! I'm Yunus, a 23 year old computer programmer (A.S).
 
-Actively practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
+Actively practicing programming languages and technologies.
 
 interested in  🔍 ➡️
 Computer Hardware,
