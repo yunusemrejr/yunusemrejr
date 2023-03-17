@@ -62,7 +62,13 @@
 - 💾[Echo random stuff then ask & display user input](https://github.com/yunusemrejr/PHP_print_stuff_and_ask_display_input)
 
 
-# Other
+# Python
+- 💾[Simple password generator (Python)](https://github.com/yunusemrejr/Simple-password-generator-Python-),
+- 💾[Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game),
+- 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
+
+
+# Other (Mixed)
 - 💾[SQL Query Builder](https://github.com/yunusemrejr/SQL-Query-Builder),
 - 💾[Node.js Application with Microsoft SQL Server DB](https://github.com/yunusemrejr/SQL-SERVER-NODEJS),
 - 💾[usernameGenerator / Node.js Express and MySQL Username Generator](https://github.com/yunusemrejr/usernameGenerator),
@@ -74,14 +80,12 @@
 ),
 - 💾[1 to 9 number information for kids (C++)](https://github.com/yunusemrejr/1-to-9-number-information),
 - 💾[Words to Password (C++)](https://github.com/yunusemrejr/Worlds-to-Password-CPP),
-- 💾[Simple password generator (Python)](https://github.com/yunusemrejr/Simple-password-generator-Python-),
 - 💾[User Status Checker (.NET/C#, SQL)](https://github.com/yunusemrejr/User-Status-Checker),
 - 💾[.NET form mySQL user list viewer (.NET/C#, SQL)](https://github.com/yunusemrejr/.NET-form-mySQL-user-list-viewer),
 - 💾[.NET form-Browse World Cities Database (With Simple Calculator Added) (.NET/C#, SQL)](https://github.com/yunusemrejr/dotNET-Csharp-BrowseWorldDB),
 - 💾[Console app that multiples input with Pi (Written in C)](https://github.com/yunusemrejr/C-program-that-multiplies-with-Pi),
 - 💾[TypeScript Simple Demo Program](https://github.com/yunusemrejr/TypeScript-Simple-Demo),
 - 💾[Basic Chatbot (C++)](https://github.com/yunusemrejr/Chat-Bot-With-Cpp),
-- 💾[Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game),
 - 💾[C++ Is Text < 1000 Characters? (with GUI)](https://github.com/yunusemrejr/Text-Length-1000-or-Not--),
 - 💾[C++ Chat Bot v.2](https://github.com/yunusemrejr/Chat-Bot-v2-Cpp), 
 - 💾[SQL table into Graph View with C#/.NET & mySQL](https://github.com/yunusemrejr/Chart-C--NET-and-SQL),
@@ -89,6 +93,5 @@
 - 💾[Simple Library automation in C#/.NET with mySQL](https://github.com/yunusemrejr/Cs-dotNET-Library-Automation-TR),
 - 💾[Int to Hexi - C program converting integer array to hex values](https://github.com/yunusemrejr/C-program-decimal-to-hexidecimal),
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
-- 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
 - 💾[SQL Query Examples: Spacecrafts & Planets for MariaDB / MySQL](https://github.com/yunusemrejr/SQL-Examples-11-23-2022/blob/main/space-stuff.sql),
 - 💾[C program that uses Libcurl to get server header information from provided URL](https://github.com/yunusemrejr/C_libcurl_get_server_header_from_url)
