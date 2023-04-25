@@ -75,6 +75,12 @@ Databases.
 
 [https://www.urlatlas.info](https://www.urlatlas.info)  *Online
 
+https://www.gor.bio/
+https://minecraftcheatsworld.blogspot.com/
+https://pingoman.gor.bio/
+https://bookfinder.gor.bio/
+https://the-learning-machine.gor.bio/
+
 
 
 --------------------
