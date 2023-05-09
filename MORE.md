@@ -49,7 +49,8 @@
 - 💾[Find & Replace Keyword](https://github.com/yunusemrejr/findandreplacekw),
 - 💾[Keyword Counter](https://github.com/yunusemrejr/keywordcounterJS),
 - 💾[CSS Title Generator](https://github.com/yunusemrejr/css-title-generator-JS),
-- 💾[Objects & Parameters Example](https://github.com/yunusemrejr/javascript-objects-example-for-loop)
+- 💾[Objects & Parameters Example](https://github.com/yunusemrejr/javascript-objects-example-for-loop),
+- 💾[KepServerEX Full Web Client](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client),
 
 
 # PHP
