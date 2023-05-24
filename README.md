@@ -51,8 +51,6 @@ Databases.
 
 # 🧰 Services
 
-[Fiverr](https://www.fiverr.com/yunusschannel)
-
 [CodeClerks](https://codeclerks.com/user/yuyu2000)
 
 [Freelancer.com](https://www.freelancer.com/u/yunusemrejr)
@@ -75,11 +73,7 @@ Databases.
 
 [https://www.urlatlas.info](https://www.urlatlas.info)  *Online
 
-https://www.gor.bio/
-https://minecraftcheatsworld.blogspot.com/
-https://pingoman.gor.bio/
-https://bookfinder.gor.bio/
-https://the-learning-machine.gor.bio/
+https://www.gor.bio/ ...
 
 
 
