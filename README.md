@@ -49,13 +49,6 @@ Databases.
 
 ---------------------
 
-# 🧰 Services
-
-[CodeClerks](https://codeclerks.com/user/yuyu2000)
-
-[Freelancer.com](https://www.freelancer.com/u/yunusemrejr)
-
----------------------
 
 # 🌎 Personal Website
 
