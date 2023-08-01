@@ -38,7 +38,7 @@ Databases.
 
 [Illinois Institute of Technology - Information Technology (Bachelor's) - still ongoing](#)
 
-[Beykoz University - Computer Programming (A.S. Degree)](https://beykoz.edu.tr/)
+[Beykoz University - Computer Programming (A.S. Degree 2020-23)](https://beykoz.edu.tr/)
 
 -📜[My Certificates](https://github.com/yunusemrejr/Certificates)
 
