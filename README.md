@@ -65,7 +65,7 @@ Databases.
 
 [earthquakehelpers.com](https://earthquakehelpers.com)  *Online
 
-[https://www.urlatlas.info](https://www.urlatlas.info)  *Online
+[https://www.urlatlas.gor.bio](https://www.urlatlas.gor.bio)  *Online
 
 https://www.gor.bio/ *multiple web projects, *Online
 
