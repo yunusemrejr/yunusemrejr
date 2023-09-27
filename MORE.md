@@ -102,3 +102,4 @@
 - 💾[Unity 2D Character Jump Demo](https://github.com/yunusemrejr/Unity-Jumping-Character-Demo),
 - 💾[SQL Query Examples: Spacecrafts & Planets for MariaDB / MySQL](https://github.com/yunusemrejr/SQL-Examples-11-23-2022/blob/main/space-stuff.sql),
 - 💾[C program that uses Libcurl to get server header information from provided URL](https://github.com/yunusemrejr/C_libcurl_get_server_header_from_url)
+- 💾[MSSQL Example Query for Shopping Data](https://github.com/yunusemrejr/MSSQL-demo-shopping-db-example)
