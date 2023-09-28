@@ -72,6 +72,7 @@
 - 💾[Basic Snake Game (Python)](https://github.com/yunusemrejr/Basic-Snake-Game),
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
 - 💾[Flask Web App to Fetch UN XML (Python)](https://github.com/yunusemrejr/FlaskDemoUNXMLFetch),
+- 💾[Demo Product Amount Counter (Python)](https://github.com/yunusemrejr/demo-product-amount-counter-python)
 
 
 
