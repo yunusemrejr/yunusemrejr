@@ -25,7 +25,8 @@
 - 💾[Read CSV Data with Java](https://github.com/yunusemrejr/CSV-Read-Data-Java),
 - 💾[Java HttpRequest Examples](https://github.com/yunusemrejr/JavaHttpRequestExamples),
 - 💾[OPCTurkey's Java Swing API Client for KepServerEX](https://github.com/yunusemrejr/OPCTurkey_KepServerEX-Desktop-API-Client),
-- 💾[Simple Find-Replace & Regex Maker](https://github.com/yunusemrejr/Java-Simple-Find-Replace-and-Regex-Maker)
+- 💾[Simple Find-Replace & Regex Maker](https://github.com/yunusemrejr/Java-Simple-Find-Replace-and-Regex-Maker),
+- 💾[Cone Snippet Manager CLI](https://github.com/yunusemrejr/CodeSnippet/)
 
 # JavaScript (HTML & CSS)
 - 💾[Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
