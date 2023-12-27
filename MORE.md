@@ -74,6 +74,7 @@
 - 💾[Solution to Project Euler's 11th problem with Python. (Finding the largest product in a grid)](https://github.com/yunusemrejr/Python-ProjectEuler-Problem-11-Find-Largest-Product-In-a-Grid),
 - 💾[Flask Web App to Fetch UN XML (Python)](https://github.com/yunusemrejr/FlaskDemoUNXMLFetch),
 - 💾[Sold Product License Amount Counter for Excel Spreadsheets (Python)](https://github.com/yunusemrejr/demo-product-amount-counter-python)
+- 💾[OPC UA Client (HTML5 UI) (Flask)](https://github.com/yunusemrejr/opcUA-PYHON-FLASK-WEB-CLIENT)
 
 
 
