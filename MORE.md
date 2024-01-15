@@ -66,6 +66,8 @@
 - 💾[Source code for my website Javandscript.com](https://github.com/yunusemrejr/javandscript.com),
 - 💾[User & Admin Login panel with PHP & MySQL](https://github.com/yunusemrejr/PHP-Admin-User-Login),
 - 💾[Echo random stuff then ask & display user input](https://github.com/yunusemrejr/PHP_print_stuff_and_ask_display_input)
+- 💾[API Server Example for serving get post put patch delete requests in a testing-only manner](https://github.com/yunusemrejr/PHP-API-SERVER-EXAMPLE1)
+
 
 
 # Python
