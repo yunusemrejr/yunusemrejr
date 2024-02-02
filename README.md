@@ -63,9 +63,9 @@ Databases.
 
 [urlatlas.org](#) / ([WebArchive](https://web.archive.org/web/*/https://www.urlatlas.org/)) *Offline
 
-[earthquakehelpers.gor.bio](https://earthquakehelpers.gor.bio/)  *Online
+[earthquakehelpers.gor.bio](https://earthquakehelpers.gor.bio/)  *Offline
 
-[https://www.urlatlas.gor.bio](https://www.urlatlas.gor.bio)  *Online
+[https://www.urlatlas.gor.bio](https://www.urlatlas.gor.bio)  *Offline
 
 https://www.gor.bio/ *multiple web projects, *Online
 
