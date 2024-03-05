@@ -82,6 +82,8 @@
 
 
 # Other (Mixed)
+
+- 💾[TypeScript Server Config Object Type Creation](https://github.com/yunusemrejr/typescript-server-config-object/tree/main),
 - 💾[Blog Front-end w/ Next.js Framework](https://github.com/yunusemrejr/bedtime-stories-blog-frontend),
 - 💾[ASP.NET Core 8 License Data Analysis System](https://github.com/yunusemrejr/net-core-license-tracker-app),
 - 💾[SQL Query Builder](https://github.com/yunusemrejr/SQL-Query-Builder),
