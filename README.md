@@ -1,12 +1,13 @@
-Hi! I'm Yunus, a 23 year old computer programmer (A.S).
+Hi! I'm Yunus, a 24 year old software developer.
 
-Actively practicing programming languages and technologies.
+Actively working on various projects.
 
 interested in  🔍 ➡️
 Computer Hardware,
-Operating Systems,
-Programming languages, 
-Databases.
+Anything w/ software,
+Mathematics,
+and other cool stuff like AI,
+because I need to make sure we will be ruled by robots in a doomsday scenario.
 
 - 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
 
@@ -36,7 +37,7 @@ Databases.
 
 # 🏫 Education
 
-[Illinois Institute of Technology - Information Technology (Bachelor's) - still ongoing](#)
+[Illinois Institute of Technology - Information Technology (Bachelor's) - 2023 - still ongoing](#)
 
 [Beykoz University - Computer Programming (A.S. Degree 2020-23)](https://beykoz.edu.tr/)
 
@@ -46,7 +47,7 @@ Databases.
 
 # 🧑‍💼 Working at
 
-[ASP OTOMASYON A.Ş.](https://opcturkey.com/)
+[ASP OTOMASYON A.Ş.](https://opcturkey.com/) | Role: Software Dev. & IT Administrator.
 
 ---------------------
 
@@ -75,7 +76,7 @@ https://www.gor.bio/ *multiple web projects, *Online
 
 --------------------
 
-# ✍️ Practicing as I Learn
+# ✍️ Weird stuff I am trying to make sense of
 
 [Assembly](https://github.com/yunusemrejr/Assembly),
 [Physical Circuits](https://github.com/yunusemrejr/PhysicalCircuits),
