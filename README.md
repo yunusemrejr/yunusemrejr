@@ -9,7 +9,7 @@ Mathematics,
 and other cool stuff like AI,
 because I need to make sure we will be ruled by robots in a doomsday scenario.
 
-- 📫 How to reach me: Here is my e-mail address: yunusemrevurgun@hotmail.com. Professional one: yunus.vurgun@aspotomasyon.com
+- 📫 How to reach me: Here is my e-mail address: yunus@yunusemrevurgun.com
 
 - ⚡ Fun fact: I play the guitar. I like working with graphics. I love books. I speak native Turkish & good English.
  
