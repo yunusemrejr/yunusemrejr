@@ -29,6 +29,7 @@
 - 💾[Code Snippet Manager CLI](https://github.com/yunusemrejr/CodeSnippet/)
 
 # JavaScript (HTML & CSS)
+- 💾[Test Scheduler for the jet engine of a flying pineapple)](https://github.com/yunusemrejr/pineapple_jet_engine_test_scheduler),
 - 💾[Given Number Anlyzer (GNA) 1.0 and 2.0 (JavaScript, C++, CSS, HTML)](https://github.com/yunusemrejr/Given-Number-Anlyzer-GNA-1.0-and-2.0-JavaScript-C-CSS-HTML-),
 - 💾[JSchain - Simple JavaScript / Node.js Blockchain With an Integrity Checking Mechanism](https://github.com/yunusemrejr/JSchain---Simple-JavaScript-Node.js-Blockchain-With-an-Integrity-Checking-Mechanism),
 - 💾[Natural language processing (NLP) demo using "Natural" JavaScript library on Node.js](https://github.com/yunusemrejr/NLP-With-Natural-JS),
