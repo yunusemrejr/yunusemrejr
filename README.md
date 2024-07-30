@@ -72,6 +72,8 @@ https://www.gor.bio/ *multiple web projects, *Online
 
 [https://panopticpen.space/](https://panopticpen.space/)  *Online
 
+[https://www.editvirtuoso.com/](https://www.editvirtuoso.com/)  *Online
+
 
 
 --------------------
