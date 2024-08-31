@@ -1,17 +1,12 @@
-Hi! I'm Yunus, a 24 year old software developer.
+Hi! I'm Yunus Emre Vurgun, a software developer specializing in web and industrial IT systems.
 
-Actively working on various projects.
+With a background in computer science and a passion for hardware and AI, I develop custom applications to enhance industrial processes, including API clients, internal scripting solutions, and web-based license management systems. I'm an active contributor to open-source culture on GitHub and create content on software and hardware topics, which you can find on my website at yunusemrevurgun.com, YouTube, Instagram, and other social media platforms.
 
-interested in  🔍 ➡️
-Computer Hardware,
-Anything w/ software,
-Mathematics,
-and other cool stuff like AI,
-because I need to make sure we will be ruled by robots in a doomsday scenario.
+My formal education includes a degree in Computer Programming from Beykoz University, and I am currently pursuing IT studies at Illinois Institute of Technology. I also continuously expand my knowledge through various professional courses in software development and AI.
 
-- 📫 How to reach me: Here is my e-mail address: yunus@yunusemrevurgun.com
+📫 Reach me at: yunus@yunusemrevurgun.com
 
-- ⚡ Fun fact: I play the guitar. I like working with graphics. I love books. I speak native Turkish & good English.
+⚡ Fun fact: I play the guitar, enjoy working with graphics, and love books. I speak native Turkish and good English.
  
 
 # 🐝 My Code:
