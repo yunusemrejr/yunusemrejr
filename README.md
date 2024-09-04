@@ -13,7 +13,7 @@ My formal education includes a degree in Computer Programming from Beykoz Univer
 - 💾[KepServerEX Full Web Client](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client),
 - 💾[KEPServerEX API Client with Java Swing](https://github.com/yunusemrejr/KepServerExDesktopClient),
 - 💾[View User Database (V.U.D.) - Written in: PHP, JS, SQL, CSS, HTML](https://github.com/yunusemrejr/VUD-PHP),
-- 💾[Client-Server File Transmission in Java](https://github.com/yunusemrejr/Client-Server-File-Transfer-Java),
+- 💾[Anomaly Detection for Floating Point Values using Statistical Methods in C and C++](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
 
 - 💾[Advanced Industrial Hypothetical Jet Engine Test Scheduler Web App as a Express.js Server](https://github.com/yunusemrejr/pineapple_jet_engine_test_scheduler),
 
