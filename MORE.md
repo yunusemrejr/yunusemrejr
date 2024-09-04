@@ -114,3 +114,6 @@
 - 💾[SQL Query Examples: Spacecrafts & Planets for MariaDB / MySQL](https://github.com/yunusemrejr/SQL-Examples-11-23-2022/blob/main/space-stuff.sql),
 - 💾[C program that uses Libcurl to get server header information from provided URL](https://github.com/yunusemrejr/C_libcurl_get_server_header_from_url)
 - 💾[MSSQL Example Query for Shopping Data](https://github.com/yunusemrejr/MSSQL-demo-shopping-db-example)
+- 💾[Advanced Industrial Hypothetical Jet Engine Test Scheduler Web App as a Express.js Server](https://github.com/yunusemrejr/pineapple_jet_engine_test_scheduler),
+- 💾[Anomaly Detection for Floating Point Values using Statistical Methods in C and C++](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
+
