@@ -11,10 +11,13 @@ My formal education includes a degree in Computer Programming from Beykoz Univer
 
 # 🐝 My Code:
 - 💾[KepServerEX Full Web Client](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client),
-
+- 💾[Advanced Industrial Hypothetical Jet Engine Test Scheduler Web App as an Express.js Server](https://github.com/yunusemrejr/pineapple_jet_engine_test_scheduler),
 - 💾[Anomaly Detection for Floating Point Values using Statistical Methods in C and C++](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
+- 💾[Email Dragon - Python Desktop App for Auto-insert Email details for a list of recepients](https://github.com/yunusemrejr/emaildragon-py),
+- 💾[MemGuard - Small C Library for enhanced Memory Management / Limiting & Tracking malloc() free()](https://github.com/yunusemrejr/memguard),
 
-- 💾[Advanced Industrial Hypothetical Jet Engine Test Scheduler Web App as a Express.js Server](https://github.com/yunusemrejr/pineapple_jet_engine_test_scheduler),
+
+
 
 
 
