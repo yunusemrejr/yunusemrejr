@@ -1,11 +1,10 @@
 👋 Hi! I'm Yunus Emre Vurgun, a 💻 software developer specializing in 🌐 web and 🏭 industrial IT systems.
 <br><br>
 ![](https://komarev.com/ghpvc/?username=yunusemrejr)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=default)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=default) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunusemrejr)](https://git.io/streak-stats)<br>
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yunusemrejr)](https://github.com/ryo-ma/github-profile-trophy)<br>
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+ ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 <br><br>
 📚 With a background in computer science and a passion for 🔧 hardware and 🤖 AI, I develop custom applications to enhance 🏭 industrial processes, including 🌐 API clients, ⚙️ internal scripting solutions, and 🗝️ web-based license management systems. I'm an active contributor to open-source culture on GitHub and create content on 💻 software and 🧩 hardware topics, which you can find on my website at yunusemrevurgun.com, 📺 YouTube, 📸 Instagram, and other social media platforms.
