@@ -20,7 +20,6 @@
 
 
 [🔗 See My Other Code...](https://github.com/yunusemrejr/yunusemrejr/blob/main/MORE.md)
-
 <br> 
 ![](https://komarev.com/ghpvc/?username=yunusemrejr)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=default) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunusemrejr)](https://git.io/streak-stats) 
