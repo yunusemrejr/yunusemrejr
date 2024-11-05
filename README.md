@@ -1,6 +1,5 @@
 Hi! I'm Yunus Emre Vurgun, a software developer specializing in web and industrial IT systems.
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yunusemrejr.yunusemrejr)
-
+![](https://komarev.com/ghpvc/?username=yunusemrejr)
 With a background in computer science and a passion for hardware and AI, I develop custom applications to enhance industrial processes, including API clients, internal scripting solutions, and web-based license management systems. I'm an active contributor to open-source culture on GitHub and create content on software and hardware topics, which you can find on my website at yunusemrevurgun.com, YouTube, Instagram, and other social media platforms.
 
 My formal education includes a degree in Computer Programming from Beykoz University, and I am currently pursuing IT studies at Illinois Institute of Technology. I also continuously expand my knowledge through various professional courses in software development and AI.
