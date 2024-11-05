@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=yunusemrejr)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=default) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunusemrejr)](https://git.io/streak-stats) 
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact) 
  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 <br><br>
