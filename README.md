@@ -10,20 +10,10 @@ ___With a background in computer science and a passion for hardware and AI, I de
 
 Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
 
-      ____  
-     |    | 
-    [| o  o |]
-     |  []  |
-     |  __  |
-   __|______|__
-  |            |
-  |  ||    ||  |
-  |  ||    ||  |
-  |__||____||__|
-   |  |    |  |
-   |  |    |  |
-  [___]    [___]
-
+     
+    f |   ffff | 
+  
+    
  
 
 # 🐝 My Code:
