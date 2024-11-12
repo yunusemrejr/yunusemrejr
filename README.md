@@ -1,18 +1,28 @@
 dev ∎ // from circuits ⇌ software // professional problem creator ↭ solver // ▓
 
-\o/ Hi! I'm Yunus Emre Vurgun, a [===] Software Developer specializing in @ Web and [|||] Industrial IT systems.
+__Hi! I'm Yunus Emre Vurgun, a software developer specializing in web and industrial IT systems.__
 
-[|||] With a background in Computer Science and a passion for |-| Hardware and <o_o> AI, I develop custom applications to enhance [|||] industrial processes, including @ API clients, {O} Internal Scripting Solutions, and > Web-based License Management Systems. I'm an active contributor to open-source culture on GitHub and create content on [===] Software and [*] Hardware topics, which you can find on my website at yunusemrevurgun.com, TV YouTube, Cam Instagram, and other social media platforms.
+___With a background in computer science and a passion for hardware and AI, I develop custom applications to enhance industrial processes, including API clients, internal scripting solutions, and web-based license management systems. I'm an active contributor to open-source culture on GitHub and create content on software and hardware topics, which you can find on my website at yunusemrevurgun.com, YouTube, Instagram, and other social media platforms.__*
 
-^_^ My formal education includes a degree in [=] Computer Programming from Beykoz University, and I am currently pursuing /\ IT studies at Illinois Institute of Technology. I also continuously expand my knowledge through various professional courses in Software Development and <o_o> AI.
+||My formal education includes a degree in Computer Programming from Beykoz University, and I am currently pursuing IT studies at Illinois Institute of Technology. I also continuously expand my knowledge through various professional courses in software development and AI.||
 
-@ Reach me at: yunus@yunusemrevurgun.com
+**Reach me at:** yunus@yunusemrevurgun.com
 
->> Fun Fact:
-- ]--[ Guitar: I play the guitar- [*] Graphics: I enjoy working with graphics
-- ||| Books: I love books
-- TR & UK: I speak native Turkish and fluent English!
+Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
 
+      ____  
+     |    | 
+    [| o  o |]
+     |  []  |
+     |  __  |
+   __|______|__
+  |            |
+  |  ||    ||  |
+  |  ||    ||  |
+  |__||____||__|
+   |  |    |  |
+   |  |    |  |
+  [___]    [___]
 
  
 
