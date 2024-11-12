@@ -10,7 +10,7 @@ ___With a background in computer science and a passion for hardware and AI, I de
 
 Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
 
-Here is a Fortran code and I won't tell you what is does as I forgot what it does:
+Here is a crazy obfuscated Fortran code and I won't tell you what is does and I already forgot what it does:
 
      
     MODULE X1M0D IMPLICIT NONE CONTAINS SUBROUTINE S1(A, B, C) IMPLICIT NONE REAL, INTENT(IN) :: A(:,:), B(:) REAL, INTENT(OUT) :: C(SIZE(B)) INTEGER :: I1 C = 0.0 DO I1 = 1, SIZE(B) C(I1) = SUM(A(I1, :) * B(:)) END DO END SUBROUTINE S1 END MODULE X1M0D PROGRAM Z4 USE X1M0D IMPLICIT NONE REAL, DIMENSION(3,3) :: Q REAL, DIMENSION(3) :: P, W REAL :: E, F INTEGER :: J Q = RESHAPE([0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) P = [1.0, 1.0, 1.0] E = 1.0E-5 DO CALL S1(Q, P, W) W = W / 3.0 F = SUM(ABS(W - P)) P = W IF (F <= E) EXIT END DO PRINT *, "Z:" PRINT *, P END PROGRAM Z4
