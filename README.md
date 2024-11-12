@@ -9,6 +9,7 @@ ___With a background in computer science and a passion for hardware and AI, I de
 **Reach me at:** yunus@yunusemrevurgun.com
 
 Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
+
 Here is a Fortran code and I won't tell you what is does as I forgot what it does:
 
      
