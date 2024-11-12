@@ -9,20 +9,10 @@ ___With a background in computer science and a passion for hardware and AI, I de
 **Reach me at:** yunus@yunusemrevurgun.com
 
 Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
+Here is a Fortran code and I won't tell you what is does as I forgot what it does:
 
      
-               PROGRAM LR
-      REAL X(5), Y(5), SX, SY, SXY, SX2, S, A
-      DATA X /1, 2, 3, 4, 5/, Y /1.5, 2, 2.5, 4, 4.5/
-      SX = 0; SY = 0; SXY = 0; SX2 = 0
-      DO 10 I = 1, 5
-        SX = SX + X(I); SY = SY + Y(I)
-        SXY = SXY + X(I) * Y(I); SX2 = SX2 + X(I) ** 2
-        10 CONTINUE
-      S = (5*SXY - SX*SY) / (5*SX2 - SX**2)
-      A = (SY - S*SX) / 5
-      PRINT *, 'SLOPE=', S, 'INTERCEPT=', A
-      END
+       module MatVecModule implicit none contains subroutine matvec(A, X, Y) implicit none real, intent(in) :: A(:,:), X(:) real, intent(out) :: Y(size(X)) integer :: i Y = 0.0 do i = 1, size(X) Y(i) = sum(A(i, :) * X(:)) end do end subroutine matvec end module MatVecModule program PageRank use MatVecModule implicit none real, dimension(3,3) :: M real, dimension(3) :: R, Rnew real :: tol, sum_diff integer :: i M = reshape([0.0, 0.5, 0.5, & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], [3, 3]) R = [1.0, 1.0, 1.0] tol = 1.0e-5 do call matvec(M, R, Rnew) Rnew = Rnew / 3.0  ! Normalize sum_diff = sum(abs(Rnew - R)) R = Rnew if (sum_diff <= tol) exit end do print *, 'PageRank:' print *, R end program PageRank
 
 
   
