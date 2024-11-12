@@ -13,7 +13,7 @@ Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I 
 Here is a Fortran code and I won't tell you what is does as I forgot what it does:
 
      
-    MODULE ConfusionMod IMPLICIT NONE CONTAINS SUBROUTINE mv(A_in, X_in, Y_out) IMPLICIT NONE REAL, INTENT(IN) :: A_in(:,:), X_in(:) REAL, INTENT(OUT) :: Y_out(SIZE(X_in)) INTEGER :: LoopVar1 Y_out = 0.0 DO LoopVar1 = 1, SIZE(X_in) Y_out(LoopVar1) = SUM(A_in(LoopVar1, :) * X_in(:)) END DO END SUBROUTINE mv END MODULE ConfusionMod PROGRAM PRCalc USE ConfusionMod IMPLICIT NONE REAL, DIMENSION(3,3) :: M_Matrix REAL, DIMENSION(3) :: Vec_R, Vec_Rnew REAL :: Tol_Err, Sum_Difference INTEGER :: IterIndex M_Matrix = RESHAPE( & [0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) Vec_R = [1.0, 1.0, 1.0] Tol_Err = 1.0E-5 DO CALL mv(M_Matrix, Vec_R, Vec_Rnew) Vec_Rnew = Vec_Rnew / 3.0  ! Normalize step Sum_Difference = SUM(ABS(Vec_Rnew - Vec_R)) Vec_R = Vec_Rnew IF (Sum_Difference <= Tol_Err) EXIT END DO PRINT *, "PageRank Computation Complete:" PRINT *, Vec_R END PROGRAM PRCalc
+    MODULE X1M0D IMPLICIT NONE CONTAINS SUBROUTINE S1(A, B, C) IMPLICIT NONE REAL, INTENT(IN) :: A(:,:), B(:) REAL, INTENT(OUT) :: C(SIZE(B)) INTEGER :: I1 C = 0.0 DO I1 = 1, SIZE(B) C(I1) = SUM(A(I1, :) * B(:)) END DO END SUBROUTINE S1 END MODULE X1M0D PROGRAM Z4 USE X1M0D IMPLICIT NONE REAL, DIMENSION(3,3) :: Q REAL, DIMENSION(3) :: P, W REAL :: E, F INTEGER :: J Q = RESHAPE([0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) P = [1.0, 1.0, 1.0] E = 1.0E-5 DO CALL S1(Q, P, W) W = W / 3.0 F = SUM(ABS(W - P)) P = W IF (F <= E) EXIT END DO PRINT *, "Z:" PRINT *, P END PROGRAM Z4
 
 
   
