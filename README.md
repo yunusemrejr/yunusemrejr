@@ -11,7 +11,8 @@ ___With a background in computer science and a passion for hardware and AI, I de
 Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
 
      
-    f |   ffff | 
+         PROGRAM LR; REAL X(5),Y(5),SX,SY,SXY,SX2,S,A; DATA X/1,2,3,4,5/,Y/1.5,2,2.5,4,4.5/; SX=SUM(X); SY=SUM(Y); SXY=SUM(X*Y); SX2=SUM(X*X); S=(5*SXY-SX*SY)/(5*SX2-SX**2); A=(SY-S*SX)/5; PRINT *,'SLOPE=',S,'INTERCEPT=',A; END
+
   
     
  
