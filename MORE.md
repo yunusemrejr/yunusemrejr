@@ -79,6 +79,7 @@
 - 💾[Flask Web App to Fetch UN XML (Python)](https://github.com/yunusemrejr/FlaskDemoUNXMLFetch),
 - 💾[Sold Product License Amount Counter for Excel Spreadsheets (Python)](https://github.com/yunusemrejr/demo-product-amount-counter-python)
 - 💾[OPC UA Client (HTML5 UI) (Flask)](https://github.com/yunusemrejr/opcUA-PYHON-FLASK-WEB-CLIENT)
+- 💾[Apply real-time artistic style transfer to webcam video feeds with AI](https://github.com/yunusemrejr/style_transfer_webcam_TF)
 
 
 
