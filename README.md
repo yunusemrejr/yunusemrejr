@@ -72,6 +72,8 @@ Here is a crazy obfuscated Fortran code and I won't tell you what is does and I 
 
 # 🌎 Websites
 
+[Eternal Griffin AI](https://eternalgriffin.com/)  *Online
+
 [javandscript.com](#) / ([WebArchive](https://web.archive.org/web/*/https://www.javandscript.com/)) *Offline
 
 [urlatlas.org](#) / ([WebArchive](https://web.archive.org/web/*/https://www.urlatlas.org/)) *Offline
@@ -89,7 +91,9 @@ https://www.gor.bio/ *multiple web projects, *Online
 [https://www.rabbithole42.blog/](https://www.rabbithole42.blog/)  *Online
 
 [quizboys.com](https://www.quizboys.com)  *Online
+
 [tapas.ink](https://tapas.ink)  *Online
+
 [HeadsetHub.org](https://headsethub.org)  *Online
 
 
