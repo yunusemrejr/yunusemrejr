@@ -120,5 +120,5 @@
 - 💾[MemGuard - C Library for Memory Limiting and Tracking](https://github.com/yunusemrejr/memguard)
 - 💾[R Simple Financial Forecast using Auto Arima, R Studio](https://github.com/yunusemrejr/R-financial-forecast-using-auto-arima)
 - 💾[UNIX-based Network Communication Monitoring & Analysis CLI Tool](https://github.com/yunusemrejr/yunus-traf-statter-v2)
-- 💾[DualBlog - Blogging Engine with a Public and a Private Blog](https://github.com/yunusemrejr/DualBlog/)
+- 💾[DualBlog - Blogging Engine with a Public and a Private Blog](https://github.com/yunusemrejr/dualblogengine/)
 
