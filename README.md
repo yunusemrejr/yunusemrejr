@@ -1,14 +1,11 @@
 dev ∎ // from circuits ⇌ software // professional problem creator ↭ solver // ▓
 
-__Hi! I'm Yunus Emre Vurgun, a software developer specializing in web and industrial IT systems.__
+Machine listens to data, data listens to machine, I just observe their little game.
 
-___With a background in computer science and a passion for hardware and AI, I develop custom applications to enhance industrial processes, including API clients, internal scripting solutions, and web-based license management systems. I'm an active contributor to open-source culture on GitHub and create content on software and hardware topics, which you can find on my website at yunusemrevurgun.com, YouTube, Instagram, and other social media platforms.__*
+__Hi! I'm Yunus Emre Vurgun, a software developer and your average IT guy specializing in web and industrial stuff.__
 
-||My formal education includes a degree in Computer Programming from Beykoz University, and I am currently pursuing IT studies at Illinois Institute of Technology. I also continuously expand my knowledge through various professional courses in software development and AI.||
-
+__
 **Reach me at:** yunus@yunusemrevurgun.com
-
-Fun fact: I play the guitar (`), enjoy working with graphics, and love books. I speak native Turkish and fluent English.
 
 Here is a crazy obfuscated Fortran code and I won't tell you what is does and I already forgot what it does:
 
