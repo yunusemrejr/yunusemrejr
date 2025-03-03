@@ -43,58 +43,13 @@ Here is a crazy obfuscated Fortran code and I won't tell you what is does and I 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177)
 - 📸 [Instagram](https://www.instagram.com/yunus_emrevurgun/)
 - 📹 [YouTube](https://www.youtube.com/channel/UC1lBm9ipV1au7VIcbALV2HA)
-
----------------------
-
-# 🏫 Education
-
-- 🎓 [Illinois Institute of Technology - Information Technology (Bachelor's) - 2023 - ongoing](#)
-- 🎓 [Beykoz University - Computer Programming (A.S. Degree 2020-23)](https://beykoz.edu.tr/)
-- 📜 [My Certificates](https://github.com/yunusemrejr/Certificates)
-
----------------------
-
-# 🧑‍💼 Working at
-
-- 🏢 [ASP OTOMASYON A.Ş.](https://opcturkey.com/) | Role: Software Developer & IT Administrator
-
----------------------
-
+ 
 
 # 🌎 Personal Website
 
 [https://www.yunusemrevurgun.com/](https://www.yunusemrevurgun.com/)
 
---------------------
-
-# 🌎 Websites
-
-[Eternal Griffin AI](https://eternalgriffin.com/)  *Online
-
-[javandscript.com](#) / ([WebArchive](https://web.archive.org/web/*/https://www.javandscript.com/)) *Offline
-
-[urlatlas.org](#) / ([WebArchive](https://web.archive.org/web/*/https://www.urlatlas.org/)) *Offline
-
-[earthquakehelpers.gor.bio](https://earthquakehelpers.gor.bio/)  *Offline
-
-[https://www.urlatlas.gor.bio](https://www.urlatlas.gor.bio)  *Offline
-
-https://www.gor.bio/ *multiple web projects, *Online
-
-[https://panopticpen.space/](https://panopticpen.space/)  *Online
-
-[https://www.editvirtuoso.com/](https://www.editvirtuoso.com/)  *Online
-
-[https://www.rabbithole42.blog/](https://www.rabbithole42.blog/)  *Online
-
-[quizboys.com](https://www.quizboys.com)  *Online
-
-[tapas.ink](https://tapas.ink)  *Online
-
-[HeadsetHub.org](https://headsethub.org)  *Online
-
-
---------------------
+  
 
 # ✍️ Weird stuff I am trying to make sense of
 
