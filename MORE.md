@@ -13,6 +13,9 @@ _Node.js, Express – real-time industrial process tool_
 - 🛠️ [Linux Essential and Useful-Only Network Information Display Shell Script](https://github.com/yunusemrejr/net-info-linux/tree/main)
 _Shell, UNIX/Linux system info_
 
+- 🛠️ [Linux Advanced Traceroute Routing Analysis Script](https://github.com/yunusemrejr/linux-traceroute-tracker-v1/tree/main)
+_Shell, Bash, traceroute, advanced analysis_
+
 - 🛰️ [OPCTurkey's Java Swing API Client for KepServerEX](https://github.com/yunusemrejr/OPCTurkey_KepServerEX-Desktop-API-Client)
 _Java, industrial desktop networking (SCADA)_
 
