@@ -73,6 +73,9 @@ _Full-featured directory – [old versions](https://github.com/yunusemrejr/URL-A
 
 
 ### 📱 **Apps, Games, and UI Demos**
+
+- 📝 [ERP HR Module Example for Turkish Users](https://github.com/yunusemrejr/open-erp-hr-module-turkish)
+_PHP-8, ERP HR Module in Turkish_
 - 🌐 [Node.js Application with Microsoft SQL Server DB](https://github.com/yunusemrejr/SQL-SERVER-NODEJS)
 _Node.js, enterprise DB integration_
 - ⚙️ [C program that uses Libcurl to get server header information](https://github.com/yunusemrejr/C_libcurl_get_server_header_from_url)
