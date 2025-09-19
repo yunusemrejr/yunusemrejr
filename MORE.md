@@ -38,7 +38,6 @@ _Python, Flask, industrial OPC UA_
 
 
 ### 🌐 **Full Web Apps \& Platforms**
-
 - 🌍 [Earthquake Helpers .com](https://github.com/yunusemrejr/earthquakehelpersdotcom)
 _Disaster coordination platform_
 - 🗂️ [URL ATLAS - Programmer's Directory (latest)](https://github.com/yunusemrejr/URL-ATLAS-new)
@@ -74,6 +73,8 @@ _Full-featured directory – [old versions](https://github.com/yunusemrejr/URL-A
 
 ### 📱 **Apps, Games, and UI Demos**
 
+- 📋 [Ubuntu Bash Script Manager App](https://github.com/yunusemrejr/YunFxAutoShells)
+_JavaFX, SHell_
 - 📝 [ERP HR Module Example for Turkish Users](https://github.com/yunusemrejr/open-erp-hr-module-turkish)
 _PHP-8, ERP HR Module in Turkish_
 - 🌐 [Node.js Application with Microsoft SQL Server DB](https://github.com/yunusemrejr/SQL-SERVER-NODEJS)
