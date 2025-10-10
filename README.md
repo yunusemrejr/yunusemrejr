@@ -38,12 +38,6 @@ Here is a crazy obfuscated Fortran code and I won't tell you what is does and I 
  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 <br> <br> 
  
-# 🐬 Socials:
-
-- 🐦 [Twitter @yunusemrevrgn](https://twitter.com/yunusemrevrgn)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yunus-emre-vurgun-49ba9a177)
-- 📸 [Instagram](https://www.instagram.com/yunus_emrevurgun/)
-- 📹 [YouTube](https://www.youtube.com/channel/UC1lBm9ipV1au7VIcbALV2HA)
  
 
 # 🌎 Personal Website
