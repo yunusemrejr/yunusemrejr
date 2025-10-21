@@ -98,6 +98,8 @@ _Java, web app security patterns_
 
 
 ### 🧩 **Showcase Algorithms, Networking \& Learning Demos**
+ -  [JSON syntax and advanced error fixer](https://github.com/yunusemrejr/smart_json_fixer)
+
 - 🛡️ [API Server Example (Test REST)](https://github.com/yunusemrejr/PHP-API-SERVER-EXAMPLE1)
 _PHP, REST security, testing endpoints_
 - 👥 [Multiple user chat room / server with Java sockets](https://github.com/yunusemrejr/Multi-User-Java-Chat-Room)
