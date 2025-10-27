@@ -18,10 +18,11 @@ Here is a crazy obfuscated Fortran code and I won't tell you what is does and I 
  
 
 # 🐝 My Code:
-- 🏭 [MacOS OT Data-stream Bundle](https://github.com/yunusemrejr/MacOS-OT-Data-Stream-Bundle)
+- 🤖 [FinetuneYuno - CPU-only 1-8 B parameter offline LLM Finetuning App for standard computers + Web UI & Very easy to use](https://github.com/yunusemrejr/FinetuneYuno)
 - 📊 [MrGraphy - The Graph Database Visualizer & Manager](https://github.com/yunusemrejr/MrGraphy/)
 - 🛡️ [MemGuard - Small C Library for Enhanced Memory Management / Limiting & Tracking `malloc()` `free()`](https://github.com/yunusemrejr/memguard)
 - 🤖 [Neural Network for Text Classification from Scatch in C++ Using only basic standard libs](https://github.com/yunusemrejr/cpp-neural-net-from-scratch/tree/main)
+   - 🏭 [MacOS OT Data-stream Bundle](https://github.com/yunusemrejr/MacOS-OT-Data-Stream-Bundle)
 - 🏭 [KepServerEX Full Web Client](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client)
 - 📊 [Anomaly Detection for Floating Point Values using Statistical Methods in C and C++](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
 - 🐉 [Email Dragon - Python Desktop App for Auto-inserting Email Details for a List of Recipients](https://github.com/yunusemrejr/emaildragon-py)
