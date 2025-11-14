@@ -59,6 +59,7 @@ _Full-featured directory – [old versions](https://github.com/yunusemrejr/URL-A
 
 
 ### 💎 **Practical Utilities \& Productivity Tools**
+- 📋 [Network Loop & Broadcast Storm Detector Shell Script](https://github.com/yunusemrejr/Detect_Loops)
 
 - 📋 [Code Snippet Manager CLI](https://github.com/yunusemrejr/CodeSnippet/)
 - 🗂️ [Lab Terminal](https://github.com/yunusemrejr/lab-gorbio)
