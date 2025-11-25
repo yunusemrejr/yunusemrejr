@@ -1,9 +1,4 @@
-dev ∎ // from circuits ⇌ software // professional problem creator ↭ solver // ▓
-
-Machine listens to data, data listens to machine, I just observe their little game.
-
-__Hi! I'm Yunus Emre Vurgun, an IT specialist and software developer specializing in software design, industrail applications, security, software architecture and some similar stuff.
-
+dev ∎ // data flows from circuits ⇌ software , what a combo! // professional problem creator ↭ solver // ▓
 __
 **Reach me at:** yunus@yunusemrevurgun.com
 
@@ -12,7 +7,20 @@ Here is a crazy obfuscated Fortran code and I won't tell you what is does and I 
      
     MODULE X1M0D IMPLICIT NONE CONTAINS SUBROUTINE S1(A, B, C) IMPLICIT NONE REAL, INTENT(IN) :: A(:,:), B(:) REAL, INTENT(OUT) :: C(SIZE(B)) INTEGER :: I1 C = 0.0 DO I1 = 1, SIZE(B) C(I1) = SUM(A(I1, :) * B(:)) END DO END SUBROUTINE S1 END MODULE X1M0D PROGRAM Z4 USE X1M0D IMPLICIT NONE REAL, DIMENSION(3,3) :: Q REAL, DIMENSION(3) :: P, W REAL :: E, F INTEGER :: J Q = RESHAPE([0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) P = [1.0, 1.0, 1.0] E = 1.0E-5 DO CALL S1(Q, P, W) W = W / 3.0 F = SUM(ABS(W - P)) P = W IF (F <= E) EXIT END DO PRINT *, "Z:" PRINT *, P END PROGRAM Z4
 
+Hey, I’m Yunus Emre Vurgun, but feel free to call me Yun. I’m a developer and IT specialist based in Istanbul, Türkiye. I design the systems that keep data running and architect solutions that bring abstract ideas to life. My focus is on the intersection of Computational Intelligence and Operational Technology, at least that's what I think I'm doing. :)
 
+I’ve worked on and created complex platforms, examples include an industrial-grade resource planning system for clients, a visualization pipeline that bridges graph data with interactive analytics. I’ve even built a neural network classification engine from the ground up. Most of my work is open-source and available on GitHub.
+
+I continuously expand my understanding of IT infrastructure, applied mathematics, and science through resources from online platforms and academia. On GitHub, I’ve published over 100 repositories, including middleware solutions like a KepServerEX REST API wrapper and various system automation bundles to assist other engineers.
+
+I enjoy connecting with the tech community. Check out my Odysee videos on machine learning concepts or my blog posts and travel routes at yunusemrevurgun.com. 
+
+In tech, I prioritize architectural integrity and algorithmic theory over fleeting trends. I focus on building robust, lasting solutions rather than chasing the latest framework.
+
+I do not care about the "code", I care about what the system generates, how, why, when and all the metrics included in this. Is the system mathematically sane? Is it robust? Is the codebase a dumpster fire or not?
+
+What do I "like" in computing?
+Time-resistant fundamentals and their theories, the genius math it is built upon, applying robust approaches to real-world cases and creating new ones. These are the crazy things in computing that amaze me.
   
     
  
