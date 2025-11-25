@@ -2,7 +2,7 @@ dev ∎ // from circuits ⇌ software // professional problem creator ↭ solver
 
 Machine listens to data, data listens to machine, I just observe their little game.
 
-__Hi! I'm Yunus Emre Vurgun, a software developer and your average IT guy specializing in web and industrial stuff.__
+__Hi! I'm Yunus Emre Vurgun, an IT specialist and software developer specializing in software design, industrail applications, security, software architecture and some similar stuff.
 
 __
 **Reach me at:** yunus@yunusemrevurgun.com
