@@ -53,7 +53,11 @@ Time-resistant fundamentals and their theories, the genius math it is built upon
 
 [https://www.yunusemrevurgun.com/](https://www.yunusemrevurgun.com/)
 
-  
+ 
+# 🤖 Favorite Project
+
+[https://itsfully.online](https://itsfully.online)
+ 
 
 # ✍️ Weird stuff I am trying to make sense of
 
