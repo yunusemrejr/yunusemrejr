@@ -26,6 +26,8 @@ Time-resistant fundamentals and their theories, the genius math it is built upon
  
 
 # 🐝 My Code:
+* 🧪 **[MATSIMU – A fast, accessible molecular dynamics engine in C++17 (materials modeling & simulation toolkit)](https://github.com/yunusemrejr/matsimu)**
+
 - 🤖 [FinetuneYuno - CPU-only 1-8 B parameter offline LLM Finetuning App for standard computers + Web UI & Very easy to use](https://github.com/yunusemrejr/FinetuneYuno)
 - 📊 [MrGraphy - The Graph Database Visualizer & Manager](https://github.com/yunusemrejr/MrGraphy/)
 - 🛡️ [MemGuard - Small C Library for Enhanced Memory Management / Limiting & Tracking `malloc()` `free()`](https://github.com/yunusemrejr/memguard)
