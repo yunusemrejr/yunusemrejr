@@ -1,145 +1,132 @@
-<!-- ========================================= -->
-<!-- Yunus Emre Vurgun — Systems Architect     -->
-<!-- Zero external dynamic widgets (no breaks) -->
-<!-- ========================================= -->
+<!-- =============================
+   YUNUS EMRE VURGUN — SYSTEMS ARCHITECT
+   ============================= -->
 
-<h1 align="center">Yunus Emre Vurgun</h1>
+<div align="center">
 
-<p align="center">
-  Computational Intelligence • Operational Technology • Systems Architecture
+<h1>Yunus Emre Vurgun</h1>
+<p>Computational Intelligence • Operational Technology • Systems Architecture</p>
+
+<img width="300" src="https://your-image-or-avatar-url.png" alt="Yunus Emre Vurgun Portrait" />
+
+<p>
+  <a href="mailto:yunus@yunusemrevurgun.com">✉️ Contact</a> •
+  <a href="https://www.yunusemrevurgun.com">🌐 Website</a> •
+  <a href="https://itsfully.online">💡 Side Project</a>
 </p>
 
 <p align="center">
-  I design systems that generate measurable, durable outcomes.
-</p>
-
-<p align="center">
-  <a href="mailto:yunus@yunusemrevurgun.com">yunus@yunusemrevurgun.com</a> •
-  <a href="https://www.yunusemrevurgun.com">Website</a> •
-  <a href="https://itsfully.online">itsfully.online</a> •
-  <a href="https://github.com/yunusemrejr">GitHub</a>
-</p>
-
-<p align="center">
-  <!-- Static, reliable shields only -->
   <img alt="Followers" src="https://img.shields.io/github/followers/yunusemrejr?style=flat-square" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/yunusemrejr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/yunusemrejr?style=flat-square" />
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yunusemrejr&style=flat-square" />
 </p>
 
-<hr/>
-
-## Table of Contents
-
-- [Philosophy](#philosophy)
-- [Selected Systems](#selected-systems)
-- [Infrastructure & Tooling](#infrastructure--tooling)
-- [Architecture Mindset](#architecture-mindset)
-- [Experimental Work](#experimental-work)
-- [Find Me](#find-me)
-- [Support](#support)
+</div>
 
 ---
 
-## Philosophy
+## 🔍 About Me
 
-I prioritize architectural integrity and algorithmic theory over trends.
+I build systems that generate measurable, durable results.
 
-I do not care about code in isolation.
+I’m deeply focused on:
 
-I care about:
+- Machine Learning
+- Software Architecture
+- Application Security
+- Operational Technology
 
-- System behavior  
-- Measurable output  
-- Mathematical coherence  
-- Structural robustness  
-- Long-term survivability  
-
-If the architecture survives time, the implementation follows.
+I think in systems — not in lines of code.
 
 ---
 
-## Selected Systems
+## 🚀 Highlights
 
-### Core Engines
+<div align="center">
 
-**MATSIMU**  
-Molecular dynamics engine in C++17 focused on performance and modeling correctness.  
-https://github.com/yunusemrejr/matsimu
+![MATSIMU Demo](./assets/matsimu_demo.gif)
 
-**FinetuneYuno**  
-CPU-only offline LLM fine-tuning application designed for practical environments.  
-https://github.com/yunusemrejr/FinetuneYuno
+*Example demo — visualizing trajectories in MATSIMU*
 
-**Neural Network (From Scratch)**  
-C++ implementation using only standard libraries.  
-https://github.com/yunusemrejr/cpp-neural-net-from-scratch
+</div>
 
----
+**Recent Projects:**
 
-## Infrastructure & Tooling
-
-**MrGraphy** – Graph database visualizer & manager  
-https://github.com/yunusemrejr/MrGraphy
-
-**MemGuard** – Memory tracking & control library (C)  
-https://github.com/yunusemrejr/memguard
-
-**KepServerEX Full Web Client**  
-https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client
-
-**Statistical Anomaly Detection (C/C++)**  
-https://github.com/yunusemrejr/anomaly_detection_c_and_cpp
+| Project | Description |
+|---------|-------------|
+| **MATSIMU** | Molecular dynamics engine in C++17 |
+| **FinetuneYuno** | Offline LLM fine-tuning on CPU |
+| **MrGraphy** | Graph database visualizer |
+| **MemGuard** | Memory tracking & protection lib |
 
 ---
 
-## Architecture Mindset
+## 📦 Selected Systems
 
-When designing systems, I consider:
+### 🔧 Core Engines
 
-- Invariants before implementation
-- Data flow before interface
-- Constraints before abstractions
-- Failure modes before deployment
+- 🔹 **MATSIMU** – High-performance molecular dynamics  
+  https://github.com/yunusemrejr/matsimu
 
-I prefer systems that are:
+- 🔹 **FinetuneYuno** – CPU-only offline LLM fine-tuning  
+  https://github.com/yunusemrejr/FinetuneYuno
 
-- Observable  
-- Measurable  
-- Deterministic where required  
-- Explicit in their constraints  
-
-Architecture is a long-term commitment, not a sprint.
+- 🔹 **Neural Network from Scratch** – Minimal C++ model engine  
+  https://github.com/yunusemrejr/cpp-neural-net-from-scratch
 
 ---
 
-## Experimental Work
+## 🛠 Infrastructure & Tooling
 
-Assembly  
-https://github.com/yunusemrejr/Assembly  
+- **MrGraphy** – Graph viz & manager  
+  https://github.com/yunusemrejr/MrGraphy  
 
-Physical Circuits  
-https://github.com/yunusemrejr/PhysicalCircuits  
+- **MemGuard** – Memory limiter + tracker  
+  https://github.com/yunusemrejr/memguard
 
-Digital Circuits  
-https://github.com/yunusemrejr/CircuitsWithDigitalWorks  
+- **KepServerEX Full Web Client**  
+  https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client
 
----
-
-## Find Me
-
-Website  
-https://www.yunusemrevurgun.com
-
-itsfully.online  
-https://itsfully.online
-
-GitHub Profile  
-https://github.com/yunusemrejr
+- **Anomaly Detection (C/C++)**  
+  https://github.com/yunusemrejr/anomaly_detection_c_and_cpp
 
 ---
 
-## Support
+## 🧠 Systems Thinking Mindset
+
+I design for:
+
+✔ Invariants before abstraction  
+✔ Dataflow before interface  
+✔ Observability from day one  
+✔ Failure modes before deployment
+
+Systems are long-term commitments — not quick hacks.
+
+---
+
+## 🔧 Experimental Work
+
+- Assembly Experiments  
+  https://github.com/yunusemrejr/Assembly
+
+- Physical Electronics Explorations  
+  https://github.com/yunusemrejr/PhysicalCircuits
+
+- Digital Logic Projects  
+  https://github.com/yunusemrejr/CircuitsWithDigitalWorks
+
+---
+
+## 📫 Find Me
+
+- 🌍 Website — https://www.yunusemrevurgun.com  
+- 🐦 Mastodon — @yunusemrevurgn@mastodon.social  
+- 💬 LinkedIn — https://linkedin.com/in/yunusemrevurgun  
+
+---
+
+## ❤️ Support
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/yunusemrevrgn">
