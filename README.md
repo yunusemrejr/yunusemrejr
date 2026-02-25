@@ -1,5 +1,6 @@
 <!-- ========================================= -->
-<!-- Yunus Emre Vurgun — Systems Architect     -->
+<!-- Yunus Emre Vurgun                         -->
+<!-- Clean / Stable / No Broken Widgets       -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -14,21 +15,16 @@ I design systems that generate measurable, durable outcomes.
 
 <br/>
 
-<!-- Executive Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemrejr&theme=github_dark" />
-
-<br/>
-
-<!-- Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=yunusemrejr&theme=darkhub&no-frame=true&row=1&column=6" />
+<!-- Core Stats (Stable) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&hide_border=true&theme=transparent" />
 
 <br/><br/>
 
-<!-- Core Metrics -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&hide_border=true&theme=transparent" />
+<!-- Achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=yunusemrejr&theme=darkhub&no-frame=true&margin-w=8" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yunusemrejr&style=flat-square" />
 
@@ -74,10 +70,10 @@ https://github.com/yunusemrejr/cpp-neural-net-from-scratch
 
 ### Infrastructure & Tooling
 
-**MrGraphy** – Graph database visualizer  
+**MrGraphy**  
 https://github.com/yunusemrejr/MrGraphy
 
-**MemGuard** – Memory tracking & control library (C)  
+**MemGuard**  
 https://github.com/yunusemrejr/memguard
 
 **KepServerEX Full Web Client**  
