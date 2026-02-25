@@ -42,13 +42,7 @@ I think in systems — not in lines of code.
 
 ## 🚀 Highlights
 
-<div align="center">
 
-![MATSIMU Demo](./assets/matsimu_demo.gif)
-
-*Example demo — visualizing trajectories in MATSIMU*
-
-</div>
 
 **Recent Projects:**
 
