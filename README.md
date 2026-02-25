@@ -1,34 +1,30 @@
-<!-- ========================================= -->
-<!-- Yunus Emre Vurgun                         -->
-<!-- Clean / Stable / No Broken Widgets       -->
-<!-- ========================================= -->
+ 
 
-<div align="center">
+<h1 align="center">Yunus Emre Vurgun</h1>
 
-# Yunus Emre Vurgun
+<p align="center">
+computational intelligence ■ operational technology ■ systems architecture
+</p>
 
-computational intelligence ∎ operational technology ∎ systems architecture
-
+<p align="center">
 I design systems that generate measurable, durable outcomes.
+</p>
 
-📬 yunus@yunusemrevurgun.com
+<p align="center">
+<a href="mailto:yunus@yunusemrevurgun.com">yunus@yunusemrevurgun.com</a>
+</p>
 
-<br/>
+<br>
 
-<!-- Core Stats (Stable) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&hide_border=true&theme=transparent" />
+<!-- GitHub Stats (ONLY stable source used) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<br/><br/>
-
-<!-- Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=yunusemrejr&theme=darkhub&no-frame=true&margin-w=8" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yunusemrejr&style=flat-square" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yunusemrejr&style=flat-square" />
+</p>
 
 ---
 
@@ -107,7 +103,8 @@ https://itsfully.online
 
 ---
 
-## A Tiny Mystery (Fortran)
-
-```fortran
-MODULE X1M0D IMPLICIT NONE CONTAINS SUBROUTINE S1(A, B, C) IMPLICIT NONE REAL, INTENT(IN) :: A(:,:), B(:) REAL, INTENT(OUT) :: C(SIZE(B)) INTEGER :: I1 C = 0.0 DO I1 = 1, SIZE(B) C(I1) = SUM(A(I1, :) * B(:)) END DO END SUBROUTINE S1 END MODULE X1M0D PROGRAM Z4 USE X1M0D IMPLICIT NONE REAL, DIMENSION(3,3) :: Q REAL, DIMENSION(3) :: P, W REAL :: E, F INTEGER :: J Q = RESHAPE([0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) P = [1.0, 1.0, 1.0] E = 1.0E-5 DO CALL S1(Q, P, W) W = W / 3.0 F = SUM(ABS(W - P)) P = W IF (F <= E) EXIT END DO PRINT *, "Z:" PRINT *, P END PROGRAM Z4
+<div align="center">
+<a href="https://www.buymeacoffee.com/yunusemrevrgn">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+</a>
+</div>
