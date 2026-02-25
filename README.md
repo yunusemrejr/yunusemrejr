@@ -1,21 +1,36 @@
+<!-- ========================================= -->
+<!-- Yunus Emre Vurgun — Systems Architect     -->
+<!-- ========================================= -->
+
 <div align="center">
 
 # Yunus Emre Vurgun
 
-systems architecture ∎ computational intelligence ∎ operational technology
+computational intelligence ∎ operational technology ∎ systems architecture
 
-I design systems that generate measurable outcomes.
+I design systems that generate measurable, durable outcomes.
 
 📬 yunus@yunusemrevurgun.com
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yunusemrejr&theme=dark&hide_border=true&background=00000000" />
+<!-- Executive Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemrejr&theme=github_dark" />
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=transparent&hide_border=true" />
+<!-- Achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=yunusemrejr&theme=darkhub&no-frame=true&row=1&column=6" />
+
+<br/><br/>
+
+<!-- Core Metrics -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&hide_border=true&theme=transparent" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yunusemrejr&style=flat-square" />
 
 </div>
 
@@ -28,10 +43,12 @@ I prioritize architectural integrity and algorithmic theory over trends.
 I do not care about code in isolation.
 
 I care about:
-- System behavior
-- Measurable output
-- Mathematical coherence
-- Long-term structural robustness
+
+- System behavior  
+- Measurable output  
+- Mathematical coherence  
+- Structural robustness  
+- Long-term survivability  
 
 If the architecture survives time, the implementation follows.
 
@@ -50,7 +67,7 @@ CPU-only offline LLM finetuning application
 https://github.com/yunusemrejr/FinetuneYuno
 
 **Neural Network (from scratch)**  
-Standard library C++ implementation  
+C++ implementation using standard libraries only  
 https://github.com/yunusemrejr/cpp-neural-net-from-scratch
 
 ---
@@ -60,10 +77,10 @@ https://github.com/yunusemrejr/cpp-neural-net-from-scratch
 **MrGraphy** – Graph database visualizer  
 https://github.com/yunusemrejr/MrGraphy
 
-**MemGuard** – Memory tracking C library  
+**MemGuard** – Memory tracking & control library (C)  
 https://github.com/yunusemrejr/memguard
 
-**KepServerEX Web Client**  
+**KepServerEX Full Web Client**  
 https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client
 
 **Statistical Anomaly Detection (C/C++)**  
@@ -94,10 +111,7 @@ https://itsfully.online
 
 ---
 
-<div align="center">
+## A Tiny Mystery (Fortran)
 
-<a href="https://www.buymeacoffee.com/yunusemrevrgn">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
-
-</div>
+```fortran
+MODULE X1M0D IMPLICIT NONE CONTAINS SUBROUTINE S1(A, B, C) IMPLICIT NONE REAL, INTENT(IN) :: A(:,:), B(:) REAL, INTENT(OUT) :: C(SIZE(B)) INTEGER :: I1 C = 0.0 DO I1 = 1, SIZE(B) C(I1) = SUM(A(I1, :) * B(:)) END DO END SUBROUTINE S1 END MODULE X1M0D PROGRAM Z4 USE X1M0D IMPLICIT NONE REAL, DIMENSION(3,3) :: Q REAL, DIMENSION(3) :: P, W REAL :: E, F INTEGER :: J Q = RESHAPE([0.0, 0.5, 0.5,  & 0.33, 0.0, 0.67, & 0.33, 0.33, 0.34], SHAPE=[3, 3]) P = [1.0, 1.0, 1.0] E = 1.0E-5 DO CALL S1(Q, P, W) W = W / 3.0 F = SUM(ABS(W - P)) P = W IF (F <= E) EXIT END DO PRINT *, "Z:" PRINT *, P END PROGRAM Z4
