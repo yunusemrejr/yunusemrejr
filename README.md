@@ -1,4 +1,3 @@
- 
 <div align="center">
 
 <!-- Retro Terminal Monitor SVG -->
@@ -117,7 +116,7 @@
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNjAiIHdpZHRoPSI2MDAiPjxwYXRoIGQ9Ik0wIDMwQzEwMCAxMCAyMDAgNTAgMzAwIDMwQzQwMCAxMCA1MDAgNTAgNjAwIDMwQzcwMCAxMCA4MDAgNTAgODAwIDMwIiBmaWxsPSJub25lIiBzdHJva2U9IiNDNjkwMjYiIHN0cm9rZS13aWR0aD0iMiIgb3BhY2l0eT0iMC40Ii8+PHBhdGggZD0iTTAgNDBDMTAwIDIwIDIwMCA2MCAzMDAgNDBDNDAwIDIwIDUwMCA2MCA2MDAgNDBDNzAwIDIwIDgwMCA2MCA4MDAgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q0QTg0MyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMyIvPjxjaXJjbGUgY3g9IjE1MCIgY3k9IjMwIiByPSI0IiBmaWxsPSIjQzY5MDI2IiBvcGFjaXR5PSIwLjYiLz48Y2lyY2xlIGN4PSI0MDAiIGN5PSIzMCIgcj0iNCIgZmlsbD0iI0M2OTAyNiIgb3BhY2l0eT0iMC42Ii8+PGNpcmNsZSBjeD0iNjUwIiBjeT0iMzAiIHI9IjQiIGZpbGw9IiNDNjkwMjYiIG9wYWNpdHk9IjAuNiIvPjwvc3ZnPg==" alt="Wave Divider" width="600"/>
 </div>
 
----
+ 
 
 <div align="center">
 
@@ -131,8 +130,7 @@
 <div align="center">
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMzYiIHdpZHRoPSI2MDAiPjxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iMzYiIHJ4PSIzIiBmaWxsPSIjMmMyNDE2Ii8+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIzIiBmaWxsPSIjQzY5MDI2Ii8+PHRleHQgeD0iMjAiIHk9IjIyIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiNDNjkwMjYiIGZvbnQtd2VpZ2h0PSJib2xkIj5QUk9KRUNUPC90ZXh0Pjx0ZXh0IHg9IjIwMCIgeT0iMjIiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0M2OTAyNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkRFU0NSSVBUSU9OPC90ZXh0Pjx0ZXh0IHg9IjUyMCIgeT0iMjIiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0M2OTAyNiIgZm9udC13ZWlnaHQ9ImJvbGQiPkxBTkc8L3RleHQ+PC9zdmc+" alt="Table Header" width="600"/>
 </div>
-
-```
+ 
  ┌──────────────────┬──────────────────────────────────────────────┬──────────┐
  │  PROJECT         │  DESCRIPTION                                 │  LANG    │
  ├──────────────────┼──────────────────────────────────────────────┼──────────┤
@@ -141,8 +139,7 @@
  │  MrGraphy        │  Graph database visualizer                   │  Python  │
  │  MemGuard        │  Memory tracking & protection lib            │  C/C++   │
  └──────────────────┴──────────────────────────────────────────────┴──────────┘
-```
-
+ 
 <br>
 
 ---
@@ -381,7 +378,4 @@
 
 `built with ☕ and late nights`
 
-</div>
-```
-
----
+</div> 
