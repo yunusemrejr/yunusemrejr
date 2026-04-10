@@ -3,16 +3,16 @@
 
 <!-- Keep the typing animation - it's hosted externally and reliable -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=24&letterSpacing=2&pause=1200&color=C69026&background=00000000&center=true&vCenter=true&random=false&width=520&lines=SYSTEMS+ARCHITECT;COMPUTATIONAL+INTELLIGENCE;OPERATIONAL+TECHNOLOGY;BUILDING+DURABLE+SYSTEMS" 
+  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=24&letterSpacing=2&pause=1200&color=C69026&background=00000000&center=true&vCenter=true&random=false&width=520&lines=SOFTWARE%20SYSTEMS+ARCHITECTURE;COMPUTATIONAL+INTELLIGENCE;OPERATIONAL+TECHNOLOGY;BUILDING+DURABLE+SYSTEMS" 
   alt="Typing SVG"
 />
 
 <br><br>
 
 <!-- Simple name + role badges (shields.io) -->
-<img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-%20Systems%20Architect-D4A843?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Name" />
+<img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-%20Software%20Systems%20Architecture-D4A843?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Name" />
 &nbsp;
-<img src="https://img.shields.io/badge/Role-Systems%20Architect-8B6914?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role" />
+<img src="https://img.shields.io/badge/Role-Software%20Systems%20Architect-8B6914?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role" />
 
 <br><br>
 
