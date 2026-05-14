@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-Software%20Systems%20Architecture-D4A843?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Yunus Emre Vurgun"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Role-Systems%20Architect-8B6914?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role"/>
+<img src="https://img.shields.io/badge/Role-Agentic%20Developer-8B6914?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role"/>
 
 <br><br>
 
