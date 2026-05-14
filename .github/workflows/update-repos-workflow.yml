@@ -1,0 +1,77 @@
+name: Update Recent Repos
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # Daily ~08:00 TR time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [README.md]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update recent repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          # Recently Updated (pushed_at)
+          UPDATED_JSON=$(curl -sL -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/users/yunusemrejr/repos?per_page=100&type=public&sort=updated&direction=desc")
+
+          UPDATED_TABLE=$(echo "$UPDATED_JSON" | jq -r '
+            def esc: gsub("[|]"; "\\|");
+            ["| 📁 Repo | Description | Language | ⭐ | Updated |",
+             "|---------|-------------|----------|----|---------|"] +
+            (.[0:8] | map(
+              "| [\(.name)]( \(.html_url) ) | \(.description // "-" | esc) | \(.language // "N/A") | \(.stargazers_count) | \(.pushed_at[0:10]) |"
+            )) | join("\n")
+          ')
+
+          # Recently Created
+          CREATED_JSON=$(curl -sL -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/users/yunusemrejr/repos?per_page=100&type=public&sort=created&direction=desc")
+
+          CREATED_TABLE=$(echo "$CREATED_JSON" | jq -r '
+            def esc: gsub("[|]"; "\\|");
+            ["| 📁 Repo | Description | Language | ⭐ | Created |",
+             "|---------|-------------|----------|----|---------|"] +
+            (.[0:8] | map(
+              "| [\(.name)]( \(.html_url) ) | \(.description // "-" | esc) | \(.language // "N/A") | \(.stargazers_count) | \(.created_at[0:10]) |"
+            )) | join("\n")
+          ')
+
+          # Replace sections in README.md
+          awk -v updated="$UPDATED_TABLE" -v created="$CREATED_TABLE" '
+            BEGIN { in_updated=0; in_created=0 }
+            /<!-- RECENT_UPDATED_START -->/ { print; print "**Recently Updated** (last 8 by push date)\n"; print updated; in_updated=1; next }
+            /<!-- RECENT_UPDATED_END -->/ { in_updated=0; print; next }
+            /<!-- RECENT_CREATED_START -->/ { print; print "**Recently Created** (last 8 by creation date)\n"; print created; in_created=1; next }
+            /<!-- RECENT_CREATED_END -->/ { in_created=0; print; next }
+            !in_updated && !in_created { print }
+          ' README.md > README.new.md && mv README.new.md README.md
+
+          # Update timestamp
+          DATE=$(date +%Y-%m-%d)
+          sed -i "s/<!-- LAST_UPDATED -->/$DATE/" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update recent repos (updated + created)"
+            git push
+          fi
