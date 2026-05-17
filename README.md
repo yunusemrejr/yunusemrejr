@@ -83,8 +83,8 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-05-16 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-14 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-17 |
+| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-05-17 |
 | [mlchat]( https://github.com/yunusemrejr/mlchat ) | Fully client-side AI chat assistant powered by Transformers.js. No backend, no API keys, 100% private. | HTML | 0 | 2026-05-14 |
 | [Top-AI-Prompts-for-Creating-Shell-Scripts]( https://github.com/yunusemrejr/Top-AI-Prompts-for-Creating-Shell-Scripts ) | A collection of top AI prompts for generating high-quality Linux shell scripts, with examples and best practices. | N/A | 0 | 2026-05-05 |
 | [ubuntu-ip-changer-script]( https://github.com/yunusemrejr/ubuntu-ip-changer-script ) | - | Shell | 0 | 2026-05-04 |
