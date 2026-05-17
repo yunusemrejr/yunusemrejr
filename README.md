@@ -38,9 +38,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=161b22&cache_seconds=7200" alt="GitHub Stats" width="400"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=dark&hide_border=true&bg_color=161b22&cache_seconds=7200" alt="Top Languages" width="400"/>
 </div>
 
 <br>
