@@ -69,7 +69,6 @@
 **At a Glance**
 - ☕ Coffee: ∞
 - Durable systems over hype
-- Late nights: consistently high
 - Focus on invariants & failure modes
 
 </td>
