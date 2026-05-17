@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=22&letterSpacing=1.5&pause=1400&color=C69026&background=00000000&center=true&vCenter=true&random=false&width=560&lines=SOFTWARE%20SYSTEMS%20ARCHITECTURE;COMPUTATIONAL%20INTELLIGENCE;OPERATIONAL%20TECHNOLOGY;DURABLE%20SYSTEMS" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=22&letterSpacing=1.5&pause=1400&color=4A7C59&background=00000000&center=true&vCenter=true&random=false&width=560&lines=SOFTWARE%20SYSTEMS%20ARCHITECTURE;COMPUTATIONAL%20INTELLIGENCE;OPERATIONAL%20TECHNOLOGY;DURABLE%20SYSTEMS" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-Software%20Systems%20Architecture-D4A843?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Yunus Emre Vurgun"/>
+<img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-Software%20Systems%20Architecture-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Yunus Emre Vurgun"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Role-Agentic%20Developer-8B6914?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role"/>
+<img src="https://img.shields.io/badge/Role-Agentic%20Developer-3D5A3D?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role"/>
 
 <br><br>
 
-<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/✉%20yunus@yunusemrevurgun.com-C69026?style=flat-square&logoColor=white&labelColor=2C2416" alt="Email"/></a>
+<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%9C%89%20yunus@yunusemrevurgun.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Email"/></a>
 &nbsp;
-<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/🌐%20yunusemrevurgun.com-C69026?style=flat-square&logoColor=white&labelColor=2C2416" alt="Website"/></a>
+<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%98%80%20yunusemrevurgun.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Website"/></a>
 &nbsp;
-<a href="https://itsfully.online"><img src="https://img.shields.io/badge/💡%20itsfully.online-C69026?style=flat-square&logoColor=white&labelColor=2C2416" alt="Side Project"/></a>
+<a href="https://itsfully.online"><img src="https://img.shields.io/badge/%E2%98%82%20itsfully.online-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Side Project"/></a>
 
 </div>
 
@@ -23,12 +23,12 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════╗
 ║  $ whoami                                                  ║
-╠════════════════════════════════════════════════════════════╣
+╟═══════════════════════════════════════════════════════════╢
 ║  I build systems that last.                                ║
 ║  Thinking in invariants, dataflow, failure modes & scale.  ║
-╚════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -38,9 +38,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="400"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=3600" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" alt="Top Languages" width="400"/>
 </div>
 
 <br>
@@ -114,7 +114,7 @@
 
 <br>
 
-## ⚙ Highlighted Systems
+## ⚙️ Highlighted Systems
 
 Curated flagship projects.
 
