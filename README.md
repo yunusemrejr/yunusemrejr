@@ -19,6 +19,8 @@
 <a href="https://yjtoon.com"><img src="https://img.shields.io/badge/yjtoon.com-yjtoon.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="yjtoon.com"/></a>
 &nbsp;
 <a href="https://relu.chat"><img src="https://img.shields.io/badge/relu.chat-relu.chat-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="relu.chat"/></a>
+&nbsp;
+<a href="https://apprun.icu"><img src="https://img.shields.io/badge/apprun.icu-apprun.icu-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="apprun.icu"/></a>
 
 </div>
 
