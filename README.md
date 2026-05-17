@@ -44,9 +44,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yunusemrejr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=161b22&cache_seconds=10800&hide_title=true" alt="GitHub Stats" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemrejr&theme=dark" alt="GitHub Profile Stats" width="400"/>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemrejr&layout=compact&theme=dark&hide_border=true&bg_color=161b22&cache_seconds=10800&hide_title=true" alt="Top Languages" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunusemrejr&theme=dark" alt="Top Languages" width="400"/>
 </div>
 
 <br>
