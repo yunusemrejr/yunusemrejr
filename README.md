@@ -60,7 +60,7 @@
 **Core Expertise**
 - Machine Learning & LLM Fine-tuning
 - Software & Systems Architecture
-- Application & Memory Security
+- Application Security
 - Operational Technology (OT) / Industrial Systems
 
 </td>
