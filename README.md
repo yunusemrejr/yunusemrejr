@@ -83,11 +83,11 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
+| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-05-16 |
 | [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-14 |
 | [mlchat]( https://github.com/yunusemrejr/mlchat ) | Fully client-side AI chat assistant powered by Transformers.js. No backend, no API keys, 100% private. | HTML | 0 | 2026-05-14 |
 | [Top-AI-Prompts-for-Creating-Shell-Scripts]( https://github.com/yunusemrejr/Top-AI-Prompts-for-Creating-Shell-Scripts ) | A collection of top AI prompts for generating high-quality Linux shell scripts, with examples and best practices. | N/A | 0 | 2026-05-05 |
 | [ubuntu-ip-changer-script]( https://github.com/yunusemrejr/ubuntu-ip-changer-script ) | - | Shell | 0 | 2026-05-04 |
-| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-04-18 |
 | [documetro]( https://github.com/yunusemrejr/documetro ) | Documetro is a document intelligence workspace. It ingests mixed document batches, builds a hybrid retrieval index, and can answer questions through a split-provider RAG pipeline: OpenRouter handles embeddings, multimodal extraction, and lightweight answer drafting, while Nous Hermes handles query understanding and evidence finding. | Python | 0 | 2026-03-15 |
 | [jumpinggreenman]( https://github.com/yunusemrejr/jumpinggreenman ) | Jumping Greenman is a basic doodle jump-like html game. Runs in most browsers. One HTML file. For desktop. | HTML | 0 | 2026-03-12 |
 | [Java-DNA-unfinished]( https://github.com/yunusemrejr/Java-DNA-unfinished ) | This is an unfinished version of my Java program that is supposed to find genes from a string of DNA but currently it is not giving the right answers. | Java | 1 | 2026-02-27 |
