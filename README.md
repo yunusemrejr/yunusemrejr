@@ -88,7 +88,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-19 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-20 |
 | [nbody-simulator]( https://github.com/yunusemrejr/nbody-simulator ) | High-accuracy gravitational N-body simulator in pure C++17 featuring Barnes-Hut O(N log N) gravity, symplectic integrators (Verlet, Yoshida), proper softening, adaptive timesteps, collisions, and real-time X11 visualization. Physics-first educational code for Linux. | C++ | 0 | 2026-05-18 |
 | [plasmasimulationv1]( https://github.com/yunusemrejr/plasmasimulationv1 ) | - | CSS | 0 | 2026-05-18 |
 | [h2-i2-hi-reaction-simulator]( https://github.com/yunusemrejr/h2-i2-hi-reaction-simulator ) | Interactive browser-based molecular dynamics simulation of the classic H₂ + I₂ ⇌ 2HI equilibrium reaction. Demonstrates collision theory, dynamic equilibrium, and Le Chatelier's principle. Single HTML file - no installation needed. | HTML | 0 | 2026-05-18 |
