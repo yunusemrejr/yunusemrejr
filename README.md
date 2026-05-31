@@ -88,7 +88,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-29 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-05-30 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-05-28 |
 | [nbody-simulator]( https://github.com/yunusemrejr/nbody-simulator ) | High-accuracy gravitational N-body simulator in pure C++17 featuring Barnes-Hut O(N log N) gravity, symplectic integrators (Verlet, Yoshida), proper softening, adaptive timesteps, collisions, and real-time X11 visualization. Physics-first educational code for Linux. | C++ | 0 | 2026-05-18 |
 | [plasmasimulationv1]( https://github.com/yunusemrejr/plasmasimulationv1 ) | - | CSS | 0 | 2026-05-18 |
