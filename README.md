@@ -88,7 +88,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-05 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-06 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 0 | 2026-06-01 |
 | [Top-AI-Prompts-for-Creating-Shell-Scripts]( https://github.com/yunusemrejr/Top-AI-Prompts-for-Creating-Shell-Scripts ) | A collection of top AI prompts for generating high-quality Linux shell scripts, with examples and best practices. | N/A | 1 | 2026-05-05 |
 | [nbody-simulator]( https://github.com/yunusemrejr/nbody-simulator ) | High-accuracy gravitational N-body simulator in pure C++17 featuring Barnes-Hut O(N log N) gravity, symplectic integrators (Verlet, Yoshida), proper softening, adaptive timesteps, collisions, and real-time X11 visualization. Physics-first educational code for Linux. | C++ | 0 | 2026-05-18 |
