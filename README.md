@@ -88,7 +88,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-19 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-20 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-06-10 |
 | [yunusemrevurgun-com]( https://github.com/yunusemrejr/yunusemrevurgun-com ) | my personal website | HTML | 1 | 2026-06-11 |
 | [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
