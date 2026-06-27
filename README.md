@@ -88,9 +88,9 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-25 |
-| [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-25 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-25 |
+| [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-26 |
+| [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-26 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-26 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-06-10 |
 | [yunusemrevurgun-com]( https://github.com/yunusemrejr/yunusemrevurgun-com ) | my personal website | HTML | 1 | 2026-06-11 |
 | [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
