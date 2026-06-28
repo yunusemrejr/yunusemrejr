@@ -88,14 +88,14 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
+| [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-28 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-27 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-26 |
 | [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-26 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-26 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-06-10 |
 | [yunusemrevurgun-com]( https://github.com/yunusemrejr/yunusemrevurgun-com ) | my personal website | HTML | 1 | 2026-06-11 |
 | [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
 | [ASP-GROUP-BRANDKITS]( https://github.com/yunusemrejr/ASP-GROUP-BRANDKITS ) | these html documents present ASP Group brands across every surface. | HTML | 0 | 2026-06-08 |
-| [Top-AI-Prompts-for-Creating-Shell-Scripts]( https://github.com/yunusemrejr/Top-AI-Prompts-for-Creating-Shell-Scripts ) | A collection of top AI prompts for generating high-quality Linux shell scripts, with examples and best practices. | N/A | 1 | 2026-05-05 |
 <!-- RECENT_UPDATED_END -->
 
 <br>
@@ -105,6 +105,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
+| [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-27 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-25 |
 | [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-24 |
 | [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
@@ -112,7 +113,6 @@
 | [nbody-simulator]( https://github.com/yunusemrejr/nbody-simulator ) | High-accuracy gravitational N-body simulator in pure C++17 featuring Barnes-Hut O(N log N) gravity, symplectic integrators (Verlet, Yoshida), proper softening, adaptive timesteps, collisions, and real-time X11 visualization. Physics-first educational code for Linux. | C++ | 0 | 2026-05-18 |
 | [plasmasimulationv1]( https://github.com/yunusemrejr/plasmasimulationv1 ) | - | CSS | 0 | 2026-05-18 |
 | [h2-i2-hi-reaction-simulator]( https://github.com/yunusemrejr/h2-i2-hi-reaction-simulator ) | Interactive browser-based molecular dynamics simulation of the classic H₂ + I₂ ⇌ 2HI equilibrium reaction. Demonstrates collision theory, dynamic equilibrium, and Le Chatelier's principle. Single HTML file - no installation needed. | HTML | 0 | 2026-05-18 |
-| [mlchat]( https://github.com/yunusemrejr/mlchat ) | Fully client-side AI chat assistant powered by Transformers.js. No backend, no API keys, 100% private. | HTML | 0 | 2026-05-13 |
 <!-- RECENT_CREATED_END -->
 
 > **How it works**: A scheduled GitHub Action fetches your public repos via API, sorts by `pushed_at` (updated) and `created_at`, generates the tables above, and commits updates. Switch between the two lists by scrolling.
