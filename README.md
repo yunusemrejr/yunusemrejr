@@ -89,7 +89,7 @@
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-28 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-27 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-06-28 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-26 |
 | [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-26 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-06-10 |
