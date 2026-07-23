@@ -88,14 +88,14 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-07-21 |
+| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-22 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-07-22 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-07-17 |
 | [some-md-files-for-my-ais]( https://github.com/yunusemrejr/some-md-files-for-my-ais ) | - | N/A | 0 | 2026-07-17 |
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-30 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-26 |
 | [Harnejr]( https://github.com/yunusemrejr/Harnejr ) | Harnejr is an open-source MIT licensed web-gui coding harness native to Ubuntu. | Go | 1 | 2026-06-26 |
 | [yunusemrevurgun-com]( https://github.com/yunusemrejr/yunusemrevurgun-com ) | my personal website | HTML | 1 | 2026-06-11 |
-| [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
 <!-- RECENT_UPDATED_END -->
 
 <br>
@@ -105,6 +105,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
+| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-22 |
 | [some-md-files-for-my-ais]( https://github.com/yunusemrejr/some-md-files-for-my-ais ) | - | N/A | 0 | 2026-07-17 |
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-27 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-25 |
@@ -112,7 +113,6 @@
 | [asp-group-ecosystem-summary]( https://github.com/yunusemrejr/asp-group-ecosystem-summary ) | - | HTML | 0 | 2026-06-08 |
 | [ASP-GROUP-BRANDKITS]( https://github.com/yunusemrejr/ASP-GROUP-BRANDKITS ) | these html documents present ASP Group brands across every surface. | HTML | 0 | 2026-06-08 |
 | [nbody-simulator]( https://github.com/yunusemrejr/nbody-simulator ) | High-accuracy gravitational N-body simulator in pure C++17 featuring Barnes-Hut O(N log N) gravity, symplectic integrators (Verlet, Yoshida), proper softening, adaptive timesteps, collisions, and real-time X11 visualization. Physics-first educational code for Linux. | C++ | 0 | 2026-05-18 |
-| [plasmasimulationv1]( https://github.com/yunusemrejr/plasmasimulationv1 ) | - | CSS | 0 | 2026-05-18 |
 <!-- RECENT_CREATED_END -->
 
 > **How it works**: A scheduled GitHub Action fetches your public repos via API, sorts by `pushed_at` (updated) and `created_at`, generates the tables above, and commits updates. Switch between the two lists by scrolling.
