@@ -88,8 +88,8 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-07-25 |
-| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-23 |
+| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 1 | 2026-07-23 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-07-26 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | JavaScript | 1 | 2026-07-17 |
 | [some-md-files-for-my-ais]( https://github.com/yunusemrejr/some-md-files-for-my-ais ) | - | N/A | 0 | 2026-07-17 |
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-30 |
@@ -105,7 +105,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
-| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-22 |
+| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 1 | 2026-07-22 |
 | [some-md-files-for-my-ais]( https://github.com/yunusemrejr/some-md-files-for-my-ais ) | - | N/A | 0 | 2026-07-17 |
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-27 |
 | [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-25 |
