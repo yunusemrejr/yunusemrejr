@@ -88,7 +88,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-06 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-07 |
 | [FinetuneYuno]( https://github.com/yunusemrejr/FinetuneYuno ) | - | Python | 1 | 2026-01-23 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-03 |
 | [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
