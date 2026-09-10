@@ -88,14 +88,14 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-08 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | - | TypeScript | 0 | 2026-09-10 |
+| [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
+| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-09 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-09 |
 | [FinetuneYuno]( https://github.com/yunusemrejr/FinetuneYuno ) | - | Python | 1 | 2026-01-23 |
-| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-03 |
 | [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
 | [anomaly_detection_c_and_cpp]( https://github.com/yunusemrejr/anomaly_detection_c_and_cpp ) | - | C++ | 1 | 2026-02-27 |
 | [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
-| [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
-| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-23 |
 <!-- RECENT_UPDATED_END -->
 
 <br>
@@ -105,6 +105,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | - | TypeScript | 0 | 2026-09-10 |
 | [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
 | [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
@@ -112,7 +113,6 @@
 | [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-22 |
 | [some-md-files-for-my-ais]( https://github.com/yunusemrejr/some-md-files-for-my-ais ) | - | N/A | 0 | 2026-07-17 |
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-27 |
-| [Daneel]( https://github.com/yunusemrejr/Daneel ) | Daneel is a fork of OpenCode designed to have out-of-the-box abilities such as council, autonomous goal-seeking, smart provider routing, swarm controls and loops besides many more. | TypeScript | 1 | 2026-06-25 |
 <!-- RECENT_CREATED_END -->
 
 > **How it works**: A scheduled GitHub Action fetches your public repos via API, sorts by `pushed_at` (updated) and `created_at`, generates the tables above, and commits updates. Switch between the two lists by scrolling.
