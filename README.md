@@ -88,8 +88,8 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | - | TypeScript | 0 | 2026-09-10 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-10 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of the regular Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. | TypeScript | 0 | 2026-09-11 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-11 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-09 |
 | [FinetuneYuno]( https://github.com/yunusemrejr/FinetuneYuno ) | - | Python | 1 | 2026-01-23 |
@@ -105,7 +105,7 @@
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | - | TypeScript | 0 | 2026-09-10 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of the regular Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. | TypeScript | 0 | 2026-09-10 |
 | [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
 | [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
