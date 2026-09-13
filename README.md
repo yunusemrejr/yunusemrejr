@@ -1,30 +1,28 @@
+ 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=22&letterSpacing=1.5&pause=1400&color=4A7C59&background=00000000&center=true&vCenter=true&random=false&width=560&lines=SOFTWARE%20SYSTEMS%20ARCHITECTURE;COMPUTATIONAL%20INTELLIGENCE;OPERATIONAL%20TECHNOLOGY;DURABLE%20SYSTEMS" alt="Typing SVG"/>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/YUNUS%20EMRE%20VURGUN-Software%20Systems%20Architecture-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Yunus Emre Vurgun"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Role-Agentic%20Developer-3D5A3D?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Role"/>
+# Yunus Emre Vurgun
 
-<br><br>
+**Software Systems Architect · Agentic Developer**
 
-<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%9C%89%20yunus@yunusemrevurgun.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Email"/></a>
-&nbsp;
-<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%98%80%20yunusemrevurgun.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Website"/></a>
-&nbsp;
-<a href="https://itsfully.online"><img src="https://img.shields.io/badge/%E2%98%82%20itsfully.online-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="Side Project"/></a>
-&nbsp;
-<a href="https://yjtoon.com"><img src="https://img.shields.io/badge/yjtoon.com-yjtoon.com-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="yjtoon.com"/></a>
-&nbsp;
-<a href="https://relu.chat"><img src="https://img.shields.io/badge/relu.chat-relu.chat-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="relu.chat"/></a>
-&nbsp;
-<a href="https://apprun.icu"><img src="https://img.shields.io/badge/apprun.icu-apprun.icu-4A7C59?style=flat-square&logoColor=white&labelColor=2C2416" alt="apprun.icu"/></a>
+<sub>Durable systems over hype — invariants, dataflow, failure modes & scale.</sub>
+
+<br/>
+
+<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%9C%89%20Email-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Email"/></a>
+<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/%E2%98%80%20Website-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="Website"/></a>
+<a href="https://itsfully.online"><img src="https://img.shields.io/badge/%E2%98%82%20itsfully.online-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="itsfully.online"/></a>
+<a href="https://yjtoon.com"><img src="https://img.shields.io/badge/yjtoon.com-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="yjtoon.com"/></a>
+<a href="https://relu.chat"><img src="https://img.shields.io/badge/relu.chat-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="relu.chat"/></a>
+<a href="https://apprun.icu"><img src="https://img.shields.io/badge/apprun.icu-4A7C59?style=for-the-badge&logoColor=white&labelColor=2C2416" alt="apprun.icu"/></a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -39,25 +37,27 @@
 
 </div>
 
-<br>
+---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemrejr&theme=dark" alt="GitHub Profile Stats" width="400"/>
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunusemrejr&theme=dark" alt="Top Languages" width="400"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemrejr&theme=dark" alt="GitHub Profile Stats" width="420"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunusemrejr&theme=dark" alt="Top Languages" width="320"/>
+
 </div>
 
-<br>
+---
 
-## 🎯 Focus Areas
+<h2 align="center">🎯 &nbsp;Focus Areas</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**Core Expertise**
+#### 🧩 Core Expertise
 - Machine Learning & LLM Fine-tuning
 - Software & Systems Architecture
 - Application Security
@@ -66,8 +66,8 @@
 </td>
 <td width="50%" valign="top">
 
-**At a Glance**
-- ☕ Coffee: ∞
+#### ⚡ At a Glance
+- ☕ Coffee: `∞`
 - Durable systems over hype
 - Focus on invariants & failure modes
 
@@ -75,16 +75,18 @@
 </tr>
 </table>
 
-<br>
+---
 
-## 📦 Most Recent Repositories
+<h2 align="center">📦 &nbsp;Most Recent Repositories</h2>
 
-<div align="center"><em>Auto-updated daily via GitHub Action • Top public repos</em></div>
+<div align="center">
+<em>Auto-updated daily via GitHub Action • Top public repos</em>
+</div>
 
-<br>
+<br/>
 
 <!-- RECENT_UPDATED_START -->
-**Recently Updated** (last 8 by push date)
+**🕒 Recently Updated** — *last 8 by push date*
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
@@ -98,10 +100,10 @@
 | [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
 <!-- RECENT_UPDATED_END -->
 
-<br>
+<br/>
 
 <!-- RECENT_CREATED_START -->
-**Recently Created** (last 8 by creation date)
+**🌱 Recently Created** — *last 8 by creation date*
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
@@ -115,67 +117,68 @@
 | [GalaxyMerge]( https://github.com/yunusemrejr/GalaxyMerge ) | Galaxy Merge Harness. Ubuntu Linux Native Web GUI based Python Backend Fully Complete Agentic Coding Harness for Developers | Python | 0 | 2026-06-27 |
 <!-- RECENT_CREATED_END -->
 
-> **How it works**: A scheduled GitHub Action fetches your public repos via API, sorts by `pushed_at` (updated) and `created_at`, generates the tables above, and commits updates. Switch between the two lists by scrolling.
+<br/>
 
-<br>
+> **How it works** — a scheduled GitHub Action fetches public repos via API, sorts by `pushed_at` (updated) and `created_at`, generates the tables above, and commits updates.
 
-## ⚙️ Highlighted Systems
+---
 
-Curated flagship projects.
+<h2 align="center">⚙️ &nbsp;Highlighted Systems</h2>
 
-| Project | Description | Language | |
-|---------|-------------|----------|---|
-| **[MATSIMU](https://github.com/yunusemrejr/matsimu)** | High-performance molecular dynamics engine | C++17 | |
-| **[FinetuneYuno](https://github.com/yunusemrejr/FinetuneYuno)** | Offline LLM fine-tuning (CPU-only) | Python | |
-| **[MrGraphy](https://github.com/yunusemrejr/MrGraphy)** | Graph database schema visualizer & manager | Python | |
-| **[MemGuard](https://github.com/yunusemrejr/memguard)** | Memory tracking, limiting & protection library | C / C++ | |
+<div align="center">
+<em>Curated flagship projects.</em>
+</div>
 
-<br>
+<br/>
 
-## 🔧 Core Engines & Experiments
+| Project | Description | Language |
+|:--------|:------------|:--------:|
+| **[MATSIMU](https://github.com/yunusemrejr/matsimu)** | High-performance molecular dynamics engine | `C++17` |
+| **[FinetuneYuno](https://github.com/yunusemrejr/FinetuneYuno)** | Offline LLM fine-tuning (CPU-only) | `Python` |
+| **[MrGraphy](https://github.com/yunusemrejr/MrGraphy)** | Graph database schema visualizer & manager | `Python` |
+| **[MemGuard](https://github.com/yunusemrejr/memguard)** | Memory tracking, limiting & protection library | `C / C++` |
 
-- **Neural Network from Scratch** — Minimal C++ model engine  
-  → [github.com/yunusemrejr/cpp-neural-net-from-scratch](https://github.com/yunusemrejr/cpp-neural-net-from-scratch)
+---
 
-- **KepServerEX Full Web Client** — Industrial OT web API client  
-  → [github.com/yunusemrejr/KepServerEX-Full-Web-API-Client](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client)
+<h2 align="center">🔧 &nbsp;Core Engines & Experiments</h2>
 
-- **Anomaly Detection (C/C++)** — Lightweight anomaly libs  
-  → [github.com/yunusemrejr/anomaly_detection_c_and_cpp](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
+- **Neural Network from Scratch** — Minimal C++ model engine
+  → [`cpp-neural-net-from-scratch`](https://github.com/yunusemrejr/cpp-neural-net-from-scratch)
 
-- **Low-level / Hardware experiments**  
-  Assembly · Physical Circuits · Digital Logic  
-  → [Assembly](https://github.com/yunusemrejr/Assembly) · [PhysicalCircuits](https://github.com/yunusemrejr/PhysicalCircuits) · [DigitalWorks](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)
+- **KepServerEX Full Web Client** — Industrial OT web API client
+  → [`KepServerEX-Full-Web-API-Client`](https://github.com/yunusemrejr/KepServerEX-Full-Web-API-Client)
 
-<br>
+- **Anomaly Detection (C/C++)** — Lightweight anomaly libs
+  → [`anomaly_detection_c_and_cpp`](https://github.com/yunusemrejr/anomaly_detection_c_and_cpp)
+
+- **Low-level / Hardware experiments** — Assembly · Physical Circuits · Digital Logic
+  → [`Assembly`](https://github.com/yunusemrejr/Assembly) · [`PhysicalCircuits`](https://github.com/yunusemrejr/PhysicalCircuits) · [`DigitalWorks`](https://github.com/yunusemrejr/CircuitsWithDigitalWorks)
+
+---
+
+<h2 align="center">🧠 &nbsp;Systems Thinking</h2>
 
 <div align="center">
 
-## 🧠 Systems Thinking
-
 ```
-think think think — everything as ONE BIG SYSTEM
+think  think  think  —  everything as ONE BIG SYSTEM
 ```
 
 </div>
 
-<br>
+---
 
-## 📫 Find Me
+<h2 align="center">📫 &nbsp;Find Me</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>Website</b><br><a href="https://www.yunusemrevurgun.com">yunusemrevurgun.com</a></td>
-<td align="center"><b>Mastodon</b><br><a href="https://mastodon.social/@yunusemrevurgn">@yunusemrevurgn</a></td>
-<td align="center"><b>LinkedIn</b><br><a href="https://linkedin.com/in/yunusemrevurgun">yunusemrevurgun</a></td>
-</tr>
-</table>
+| 🌐 Website | 🐘 Mastodon | 💼 LinkedIn |
+|:-----------:|:------------:|:-------------:|
+| [yunusemrevurgun.com](https://www.yunusemrevurgun.com) | [@yunusemrevurgn](https://mastodon.social/@yunusemrevurgn) | [yunusemrevurgun](https://linkedin.com/in/yunusemrevurgun) |
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -185,8 +188,9 @@ If you find value in any of this — consider buying me a ☕
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="42" alt="Buy Me A Coffee"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<sub>last auto-updated: 2026-05-14 • built with ☕ & late nights</sub>
+<sub>last auto-updated: 2026-05-14 &nbsp;·&nbsp; built with ☕ & late nights</sub>
 
 </div>
+ 
