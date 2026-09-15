@@ -91,7 +91,7 @@
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
 | [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of the regular Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. | TypeScript | 0 | 2026-09-14 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-13 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-14 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-09 |
 | [FinetuneYuno]( https://github.com/yunusemrejr/FinetuneYuno ) | - | Python | 1 | 2026-01-23 |
