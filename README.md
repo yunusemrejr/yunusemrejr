@@ -90,9 +90,9 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. It uses advanced machine learning, Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-22 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. It uses advanced machine learning, Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-23 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-22 |
 | [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-21 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-21 |
 | [pocketharness]( https://github.com/yunusemrejr/pocketharness ) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-20 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-09 |
