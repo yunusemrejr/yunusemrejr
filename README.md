@@ -90,9 +90,9 @@
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. It uses advanced machine learning, Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-23 |
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-22 |
-| [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-21 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider configs to enhance the overall experience. It uses advanced machine learning algorithms (wasm/c++), Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-24 |
+| [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-23 |
+| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-23 |
 | [pocketharness]( https://github.com/yunusemrejr/pocketharness ) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-20 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
 | [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-09 |
@@ -109,7 +109,7 @@
 |---------|-------------|----------|----|---------|
 | [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-20 |
 | [pocketharness]( https://github.com/yunusemrejr/pocketharness ) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-15 |
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, and custom provider configs to customize the overall experience. It uses advanced machine learning, Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-10 |
+| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider configs to enhance the overall experience. It uses advanced machine learning algorithms (wasm/c++), Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-10 |
 | [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
 | [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
 | [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
