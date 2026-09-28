@@ -36,7 +36,10 @@
 ```
 
 </div>
+<div>
+ [my super small claim anayzer model on huggingface](https://huggingface.co/yunusemrejr/GemmaClaim-270M)
 
+</div>
 ---
 
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
@@ -177,7 +180,6 @@ think  think  think  —  everything as ONE BIG SYSTEM
 | [yunusemrevurgun.com](https://www.yunusemrevurgun.com) | [@yunusemrevurgn](https://mastodon.social/@yunusemrevurgn) | [yunusemrevurgun](https://linkedin.com/in/yunusemrevurgun) |
 
 </div>
-
 ---
 
 <div align="center">
