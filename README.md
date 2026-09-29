@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/jello.svg" width="190" alt="Green jell-o mascot wearing a baseball cap"/>
-
 # Yunus Emre Vurgun
 
 **Software Developer & IT Specialist**
@@ -10,10 +8,10 @@
 
 <br/><br/>
 
-<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/Website-2F4A38?style=flat-square&labelColor=F4F7F4" alt="Website"/></a>
-<a href="https://linkedin.com/in/yunus-emrevurgun-49ba9a177/"><img src="https://img.shields.io/badge/LinkedIn-2F4A38?style=flat-square&labelColor=F4F7F4" alt="LinkedIn"/></a>
-<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/Email-2F4A38?style=flat-square&labelColor=F4F7F4" alt="Email"/></a>
-<a href="https://huggingface.co/yunusemrejr/GemmaClaim-270M"><img src="https://img.shields.io/badge/GemmaClaim--270M-2F4A38?style=flat-square&labelColor=F4F7F4" alt="GemmaClaim-270M"/></a>
+<a href="https://www.yunusemrevurgun.com"><img src="https://img.shields.io/badge/Website-625C6E?style=flat-square&labelColor=EAE7EE" alt="Website"/></a>
+<a href="https://linkedin.com/in/yunus-emrevurgun-49ba9a177/"><img src="https://img.shields.io/badge/LinkedIn-625C6E?style=flat-square&labelColor=EAE7EE" alt="LinkedIn"/></a>
+<a href="mailto:yunus@yunusemrevurgun.com"><img src="https://img.shields.io/badge/Email-625C6E?style=flat-square&labelColor=EAE7EE" alt="Email"/></a>
+<a href="https://huggingface.co/yunusemrejr/GemmaClaim-270M"><img src="https://img.shields.io/badge/GemmaClaim--270M-625C6E?style=flat-square&labelColor=EAE7EE" alt="GemmaClaim-270M"/></a>
 
 <br/><br/>
 
