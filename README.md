@@ -73,14 +73,14 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunusemrejr]( https://github.com/yunusemrejr/yunusemrejr ) | - | N/A | 1 | 2026-09-29 |
-| [pocketharness]( https://github.com/yunusemrejr/pocketharness ) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-29 |
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider configs to enhance the overall experience. It uses advanced machine learning algorithms (wasm/c++), Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-29 |
-| [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-26 |
-| [relu-chat]( https://github.com/yunusemrejr/relu-chat ) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-09-26 |
-| [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-09-09 |
-| [FinetuneYuno]( https://github.com/yunusemrejr/FinetuneYuno ) | - | Python | 1 | 2026-01-23 |
-| [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-10-17 |
+| [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-10-16 |
+| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-10-16 |
+| [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-10-16 |
+| [relu-chat](https://github.com/yunusemrejr/relu-chat) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-10-11 |
+| [pocketharness](https://github.com/yunusemrejr/pocketharness) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-10-11 |
+| [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-10-02 |
+| [minispaceshooter](https://github.com/yunusemrejr/minispaceshooter) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-26 |
 <!-- RECENT_UPDATED_END -->
 
 <br/>
@@ -90,14 +90,14 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
-| [minispaceshooter]( https://github.com/yunusemrejr/minispaceshooter ) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-20 |
-| [pocketharness]( https://github.com/yunusemrejr/pocketharness ) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-15 |
-| [yunuspi]( https://github.com/yunusemrejr/yunuspi ) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider configs to enhance the overall experience. It uses advanced machine learning algorithms (wasm/c++), Jev, Cactus Needle 3 and similar technologies. | JavaScript | 2 | 2026-09-10 |
-| [minimario]( https://github.com/yunusemrejr/minimario ) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even the framebuffer rasterizer. The JavaScript shell only feeds input at a fixed 60 Hz and presents the core's framebuffer through a WebGL2 post-processing... | C++ | 0 | 2026-09-02 |
-| [bootable-usb-writer-for-linux]( https://github.com/yunusemrejr/bootable-usb-writer-for-linux ) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a simple way to create bootable USB drives. These drives can then be used to install Windows, Linux, or other operating systems distributed as ISO images on other computers. | Shell | 0 | 2026-08-07 |
-| [self-improving-rat]( https://github.com/yunusemrejr/self-improving-rat ) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
-| [iznik-creature]( https://github.com/yunusemrejr/iznik-creature ) | Iznik Creature is a two-ESP8266 artificial-life experiment built with PlatformIO (C++), where a left "coordinator" board drives an OLED display to show behavior states, faces, and moods      generated by a tiny 4→5→1 neural network, while a right "worker" board runs an identical learning model, stores rotating checkpoints with CRC32 integrity  | C++ | 0 | 2026-07-27 |
-| [finny]( https://github.com/yunusemrejr/finny ) | Finny is a local linux-native finance chatbot for desktop. it uses local ML algorithms and NLP to process chats and give financial responses it gets from public sources on internet. | Rust | 0 | 2026-07-22 |
+| [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-10-02 |
+| [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-09-29 |
+| [minispaceshooter](https://github.com/yunusemrejr/minispaceshooter) | a linux-native C/C++ space shooter game with ML support and forever levels. | C++ | 0 | 2026-09-20 |
+| [pocketharness](https://github.com/yunusemrejr/pocketharness) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-09-15 |
+| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-09-10 |
+| [minimario](https://github.com/yunusemrejr/minimario) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even... | C++ | 0 | 2026-09-02 |
+| [bootable-usb-writer-for-linux](https://github.com/yunusemrejr/bootable-usb-writer-for-linux) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a s... | Shell | 0 | 2026-08-07 |
+| [self-improving-rat](https://github.com/yunusemrejr/self-improving-rat) | Self Improving Rat, C++ Linux ML Experiment for Artificial Living Organisms | C++ | 0 | 2026-08-05 |
 <!-- RECENT_CREATED_END -->
 
 ---
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-09-29<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-10-17<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
