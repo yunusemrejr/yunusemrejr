@@ -23,7 +23,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          UPDATED_JSON=$(curl -fsSL             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer $GITHUB_TOKEN"             "https://api.github.com/users/yunusemrejr/repos?per_page=100&type=public&sort=updated&direction=desc")
+          UPDATED_JSON=$(curl -fsSL             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer $GITHUB_TOKEN"             "https://api.github.com/users/yunusemrejr/repos?per_page=100&type=public&sort=pushed&direction=desc")
 
           UPDATED_TABLE=$(echo "$UPDATED_JSON" | jq -r '
             def clean:
@@ -33,7 +33,7 @@ jobs:
             ["| 📁 Repo | Description | Language | ⭐ | Updated |",
              "|---------|-------------|----------|----|---------|"] +
             (.[0:8] | map(
-              "| [\\(.name)](\\(.html_url)) | \\(.description // "-" | clean) | \\(.language // "N/A") | \\(.stargazers_count) | \\(.pushed_at[0:10]) |"
+              "| [\(.name)](\(.html_url)) | \(.description // "-" | clean) | \(.language // "N/A") | \(.stargazers_count) | \(.pushed_at[0:10]) |"
             )) | join("\n")
           ')
 
@@ -47,12 +47,16 @@ jobs:
             ["| 📁 Repo | Description | Language | ⭐ | Created |",
              "|---------|-------------|----------|----|---------|"] +
             (.[0:8] | map(
-              "| [\\(.name)](\\(.html_url)) | \\(.description // "-" | clean) | \\(.language // "N/A") | \\(.stargazers_count) | \\(.created_at[0:10]) |"
+              "| [\(.name)](\(.html_url)) | \(.description // "-" | clean) | \(.language // "N/A") | \(.stargazers_count) | \(.created_at[0:10]) |"
             )) | join("\n")
           ')
 
-          awk -v updated="$UPDATED_TABLE" -v created="$CREATED_TABLE" '
-            BEGIN { in_updated=0; in_created=0 }
+          UPDATED_TABLE="$UPDATED_TABLE" CREATED_TABLE="$CREATED_TABLE" awk '
+            BEGIN {
+              updated=ENVIRON["UPDATED_TABLE"]
+              created=ENVIRON["CREATED_TABLE"]
+              in_updated=0; in_created=0
+            }
             /<!-- RECENT_UPDATED_START -->/ {
               print
               print "**Recently Updated** (last 8 by push date)\n"
