@@ -73,12 +73,12 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
+| [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-10-26 |
+| [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-10-26 |
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-10-26 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-10-25 |
 | [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-10-25 |
-| [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-10-25 |
-| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-10-25 |
 | [relu-chat](https://github.com/yunusemrejr/relu-chat) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-10-23 |
-| [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-10-21 |
 | [pocketharness](https://github.com/yunusemrejr/pocketharness) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 1 | 2026-10-11 |
 | [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-10-02 |
 <!-- RECENT_UPDATED_END -->
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-10-26<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-10-27<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
