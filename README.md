@@ -73,8 +73,8 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-08 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-11-07 |
-| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-07 |
 | [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-11-06 |
 | [relu-chat](https://github.com/yunusemrejr/relu-chat) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-10-30 |
 | [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-10-30 |
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-08<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-09<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
