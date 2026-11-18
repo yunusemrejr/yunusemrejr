@@ -73,14 +73,14 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-11-17 |
-| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-17 |
-| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-16 |
+| [Franok](https://github.com/yunusemrejr/Franok) | An English–Turkish language model trained from scratch, with a WebAssembly runtime and an Ubuntu chat app. | Python | 0 | 2026-11-18 |
+| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-18 |
+| [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-11-18 |
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-17 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-11-15 |
 | [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-11-11 |
 | [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-11-06 |
 | [relu-chat](https://github.com/yunusemrejr/relu-chat) | On-device, browser-based, open-source chatbots. Your conversations never leave your computer — no servers, no tracking, no LLMs. | HTML | 1 | 2026-10-30 |
-| [pocketharness](https://github.com/yunusemrejr/pocketharness) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 3 | 2026-10-11 |
 <!-- RECENT_UPDATED_END -->
 
 <br/>
@@ -90,6 +90,7 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Created |
 |---------|-------------|----------|----|---------|
+| [Franok](https://github.com/yunusemrejr/Franok) | An English–Turkish language model trained from scratch, with a WebAssembly runtime and an Ubuntu chat app. | Python | 0 | 2026-11-18 |
 | [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-10-21 |
 | [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-10-02 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-09-29 |
@@ -97,7 +98,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 | [pocketharness](https://github.com/yunusemrejr/pocketharness) | pocket-size agentic harness. super small. Written in pure C++. For Linux. | C++ | 3 | 2026-09-15 |
 | [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-09-10 |
 | [minimario](https://github.com/yunusemrejr/minimario) | A tiny side-scrolling platformer where the entire game simulation is a freestanding C++ core compiled to WebAssembly: player physics, procedural levels, enemies, particles, even... | C++ | 0 | 2026-09-02 |
-| [bootable-usb-writer-for-linux](https://github.com/yunusemrejr/bootable-usb-writer-for-linux) | This is a shell script for writing `.iso` image files directly to USB flash drives, similar to tools such as Rufus.  It is intended for Ubuntu and other Linux users who need a s... | Shell | 0 | 2026-08-07 |
 <!-- RECENT_CREATED_END -->
 
 ---
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-17<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-18<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
