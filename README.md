@@ -73,9 +73,9 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
+| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-20 |
 | [Franok](https://github.com/yunusemrejr/Franok) | An English–Turkish language model trained from scratch, with a WebAssembly runtime and an Ubuntu chat app. | Python | 0 | 2026-11-19 |
-| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-18 |
-| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-18 |
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-19 |
 | [kiwibro](https://github.com/yunusemrejr/kiwibro) | - | Python | 0 | 2026-11-18 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-11-15 |
 | [dataclean](https://github.com/yunusemrejr/dataclean) | A small GTK 4 app (C) that shows where your disk space goes and helps you free it safely. | C | 0 | 2026-11-11 |
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-19<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-20<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
