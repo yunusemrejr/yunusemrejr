@@ -73,8 +73,8 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 | 📁 Repo | Description | Language | ⭐ | Updated |
 |---------|-------------|----------|----|---------|
-| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-22 |
-| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-22 |
+| [yunuspi](https://github.com/yunusemrejr/yunuspi) | Yunus Pi is a heavily customized harness experience built on top of a forked Pi harness (pi.dev). It uses patches, extensions, skills, special workflows, tools, custom provider ... | JavaScript | 2 | 2026-11-24 |
+| [yunusemrejr](https://github.com/yunusemrejr/yunusemrejr) | - | N/A | 1 | 2026-11-23 |
 | [yunusemrevurgun-com](https://github.com/yunusemrejr/yunusemrevurgun-com) | my personal website | HTML | 1 | 2026-11-22 |
 | [onehour](https://github.com/yunusemrejr/onehour) | One Hour is a linux-native low-resource consuming Zero Hour-inspired strategy game. | C++ | 0 | 2026-11-21 |
 | [Franok](https://github.com/yunusemrejr/Franok) | An English–Turkish language model trained from scratch, with a WebAssembly runtime and an Ubuntu chat app. | Python | 0 | 2026-11-19 |
@@ -122,6 +122,6 @@ I care about dataflow, failure modes, efficiency and systems that remain underst
 
 <br/>
 
-<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-23<!-- PROFILE_UPDATED_END --></sub>
+<sub><!-- PROFILE_UPDATED_START -->Profile data updated: 2026-11-24<!-- PROFILE_UPDATED_END --></sub>
 
 </div>
